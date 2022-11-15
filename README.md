@@ -76,7 +76,7 @@ README.md
 
 
 ## Getting Started
-You can follow the Demo[here](https://colab.research.google.com/drive/13-mk9b1W14Y9xwbAMkC6Ood6S-2z1W7Z?usp=sharing)
+You can follow the Demo.sh to explore our project.
 
 The environment requirment file can be found in ./configs, there are 2 different environment files for Mask_RCNN and Speaker_Detector. You can directly use file environment.yaml, or use 
 ```
@@ -102,7 +102,7 @@ python Data_Preprocessing.py --videoPath ./data/Raw_Video/videos/012.mp4  --imgP
 sh build_face_map_Generate_FaceMap.sh ../../data/Raw_Video/videos/002.mp4  002 ../../data/output/speaker_detect/
 ```
 
-### Step3: Go to folder './utils/Mask_RCNN/'. Train VGS model to detect gaze points. If you use pre_trained checkpoint[here]() directly, please skip this step.
+### Step3: Go to folder './utils/Mask_RCNN/'. Train VGS model to detect gaze points. If you use pre_trained checkpoint[here](https://drive.google.com/drive/folders/1gcACzyd_8tXTU4HsVNFLyC0_ZBCd7iwm?usp=sharing) directly, please skip this step.
 
 Run:
 
