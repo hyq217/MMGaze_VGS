@@ -39,9 +39,8 @@ python test_yuqi.py
 
 ### Step5: Go to home folder. Use MLP [checkpoint]() to detect best gaze point.
 
-```
 python MLP_Best_Gaze.py
-```
+
 
 # In this step you will generate the final csv file [here](https://drive.google.com/file/d/1JBDwW9fbwGz-gl2hzAI9voNz3PR9Rf0T/view?usp=sharing).
 
