@@ -8,12 +8,8 @@
 The project proposes a new approach that considers gaze following with speeches, along with a new dataset (VideoGazeSpeech, i.e., VGS). The task of gaze following is to determine the gaze target of a person in an image by a given image or video frame. This approach integrates the correlation between auditory and visual cues and their joint contribution to the gaze following task for the first time and proposes a new multimodal ingenious architecture. Our project firstly uses SyncNet, a dual-stream ConvNet, to compute correlations between lips and speech. It will extract features from the original video to generate a comprehensive feature map containing the speaker's head position and the original frame. And then, the features will be fed into a Mask-RCNN neural network to detect gaze following targets. This project contributed the first audio-video dataset to the field of gaze following and has since pioneered the exploration of multimodal fusion in the field.
 
 
-•	This research is the first exploration of multimodality for gaze tracking in deep learning.
-•	The author proposes a multimodal architecture with the frame, audio and head position as input feature maps.
-•	The VideoGazeSpeech(VGS) dataset proposed in this study is the first gaze tracking dataset that fuses audio and video.
-
-
 ## Folder Structure:
+```
 -KETI_VGS
     --configs
         ---Mask_RCNN
@@ -21,7 +17,6 @@ The project proposes a new approach that considers gaze following with speeches,
             ----environment.yaml
         ---Speaker_detector
             ----requirement.txt
-            ----environment.yaml
 
  --data:
     Note: This folder you can find:
@@ -36,7 +31,6 @@ The project proposes a new approach that considers gaze following with speeches,
         Note: csv format:  [frame_name,head_x,head_y,gazetarget_xmin,gazetarget_ymin,gazetarget_xmax,gazetarget_ymax]
         frame_name format：imageID+FrameSeqID.jpg = 0742480.jpg
 
-        ---------------------!!!!!!!!!!!!!!!!后期添加,要从重群电脑上合并一下到一个文件夹，然后上传到网盘 /home/zzq/yuqi_summer_project/coco-noHnoS.zip
 
     ---(2) head_box [here](https://drive.google.com/drive/folders/1gUFw-mG9kU_I9R1f-N_y1LlLGwmCThPR?usp=sharing)
 
@@ -73,13 +67,67 @@ The project proposes a new approach that considers gaze following with speeches,
    Mask_RCNN's checkpoint is [here]
    Speaker_Detecter's checkpoint is [here]
 
-
-
-
 Data_Preprocessing.py----Prepare data
 MLP_Best_Gaze.py--generate final gaze point
 
 README.md
+```
+
+
+## Getting Started
+The environment requirment file can be found in ./configs, there are 2 different environment files for Mask_RCNN and Speaker_Detector. You can directly use file environment.yaml, or use 
+```
+pip install -r requirments.txt 
+```
+to download libraries.
+
+
+## Experiment on the VGS dataset
+### Dataset
+You can download the VGS dataset from [here](https://drive.google.com/drive/folders/1RJT34bpPtuXwKwohcpVjZ8jOf8XKUXK1?usp=sharing).
+
+If you want to try your own dataste. Please adjust the dataset format into coco format.
+
+### Step1: Split videos into sequences(frames)
+```
+python Data_Preprocessing.py --videoPath ./data/Raw_Video/videos/012.mp4  --imgPath ./output/image_frame/012
+```
+
+### Step2: Go to folder './utils/Speaker_detector', By fusion audio&video to detect speakers, here we use pre-trained model for speaker dectection
+
+```
+sh build_face_map_Generate_FaceMap.sh ../../data/Raw_Video/videos/002.mp4  002 ../../data/output/speaker_detect/
+```
+
+### Step3: Go to folder './utils/Mask_RCNN/'. Train VGS model to detect gaze points. If you use pre_trained checkpoint[here]() directly, please skip this step.
+
+Run:
+
+(1) If you have more than 1 GPU:
+```
+./tools/dist_train.sh yuqi_x101_32x4d_fpn_1x_HS/mask_rcnn_x101_32x4d_fpn_1x_coco.py  2
+```
+
+(2) If you only have one GPU:
+```
+Python  ./tools/train.py yuqi_x101_32x4d_fpn_1x_HS/mask_rcnn_x101_32x4d_fpn_1x_coco.py
+```
+
+#mask_rcnn_x101_32x4d_fpn_1x_coco.py privides parameters to tuning the newwork, you can do some customized changes on it.
+
+
+### Step4: Go to folder './utils/Mask_RCNN/'. Detect gaze points from Mask_RCNN
+```
+python ./tools/test_yuqi.py
+```
+
+### Step5: Go to home folder. Use MLP [checkpoint]() to detect best gaze point.
+
+```
+python MLP_Best_Gaze.py
+```
+
+In this step you will generate the final csv file [here](https://drive.google.com/file/d/1JBDwW9fbwGz-gl2hzAI9voNz3PR9Rf0T/view?usp=sharing).
 
 
 ## Contact
