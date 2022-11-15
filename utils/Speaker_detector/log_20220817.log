@@ -1,0 +1,2233 @@
+==============================Now is working on run_pipeline_fixed.py=====================
+speaker_detect/output/pyavi/012/video.avi-00000; 4 dets; 1.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00001; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00002; 4 dets; 15.29 Hz
+speaker_detect/output/pyavi/012/video.avi-00003; 4 dets; 14.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00004; 4 dets; 14.90 Hz
+speaker_detect/output/pyavi/012/video.avi-00005; 4 dets; 15.09 Hz
+speaker_detect/output/pyavi/012/video.avi-00006; 4 dets; 14.51 Hz
+speaker_detect/output/pyavi/012/video.avi-00007; 4 dets; 14.10 Hz
+speaker_detect/output/pyavi/012/video.avi-00008; 4 dets; 14.63 Hz
+speaker_detect/output/pyavi/012/video.avi-00009; 4 dets; 14.57 Hz
+speaker_detect/output/pyavi/012/video.avi-00010; 4 dets; 15.16 Hz
+speaker_detect/output/pyavi/012/video.avi-00011; 4 dets; 15.23 Hz
+speaker_detect/output/pyavi/012/video.avi-00012; 4 dets; 13.56 Hz
+speaker_detect/output/pyavi/012/video.avi-00013; 5 dets; 14.93 Hz
+speaker_detect/output/pyavi/012/video.avi-00014; 4 dets; 14.40 Hz
+speaker_detect/output/pyavi/012/video.avi-00015; 4 dets; 13.34 Hz
+speaker_detect/output/pyavi/012/video.avi-00016; 4 dets; 14.56 Hz
+speaker_detect/output/pyavi/012/video.avi-00017; 4 dets; 15.06 Hz
+speaker_detect/output/pyavi/012/video.avi-00018; 4 dets; 14.64 Hz
+speaker_detect/output/pyavi/012/video.avi-00019; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00020; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/012/video.avi-00021; 4 dets; 14.49 Hz
+speaker_detect/output/pyavi/012/video.avi-00022; 4 dets; 14.94 Hz
+speaker_detect/output/pyavi/012/video.avi-00023; 4 dets; 15.12 Hz
+speaker_detect/output/pyavi/012/video.avi-00024; 4 dets; 15.12 Hz
+speaker_detect/output/pyavi/012/video.avi-00025; 4 dets; 14.52 Hz
+speaker_detect/output/pyavi/012/video.avi-00026; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00027; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00028; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00029; 4 dets; 14.58 Hz
+speaker_detect/output/pyavi/012/video.avi-00030; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00031; 4 dets; 15.06 Hz
+speaker_detect/output/pyavi/012/video.avi-00032; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00033; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00034; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00035; 4 dets; 15.21 Hz
+speaker_detect/output/pyavi/012/video.avi-00036; 4 dets; 14.44 Hz
+speaker_detect/output/pyavi/012/video.avi-00037; 4 dets; 14.89 Hz
+speaker_detect/output/pyavi/012/video.avi-00038; 4 dets; 14.42 Hz
+speaker_detect/output/pyavi/012/video.avi-00039; 4 dets; 14.44 Hz
+speaker_detect/output/pyavi/012/video.avi-00040; 4 dets; 15.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00041; 4 dets; 15.15 Hz
+speaker_detect/output/pyavi/012/video.avi-00042; 4 dets; 14.69 Hz
+speaker_detect/output/pyavi/012/video.avi-00043; 4 dets; 14.69 Hz
+speaker_detect/output/pyavi/012/video.avi-00044; 4 dets; 14.80 Hz
+speaker_detect/output/pyavi/012/video.avi-00045; 4 dets; 14.92 Hz
+speaker_detect/output/pyavi/012/video.avi-00046; 4 dets; 14.17 Hz
+speaker_detect/output/pyavi/012/video.avi-00047; 4 dets; 14.69 Hz
+speaker_detect/output/pyavi/012/video.avi-00048; 4 dets; 14.92 Hz
+speaker_detect/output/pyavi/012/video.avi-00049; 4 dets; 14.99 Hz
+speaker_detect/output/pyavi/012/video.avi-00050; 4 dets; 14.71 Hz
+speaker_detect/output/pyavi/012/video.avi-00051; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00052; 4 dets; 15.14 Hz
+speaker_detect/output/pyavi/012/video.avi-00053; 4 dets; 14.70 Hz
+speaker_detect/output/pyavi/012/video.avi-00054; 4 dets; 15.07 Hz
+speaker_detect/output/pyavi/012/video.avi-00055; 4 dets; 14.88 Hz
+speaker_detect/output/pyavi/012/video.avi-00056; 4 dets; 14.57 Hz
+speaker_detect/output/pyavi/012/video.avi-00057; 4 dets; 14.45 Hz
+speaker_detect/output/pyavi/012/video.avi-00058; 4 dets; 14.81 Hz
+speaker_detect/output/pyavi/012/video.avi-00059; 4 dets; 14.68 Hz
+speaker_detect/output/pyavi/012/video.avi-00060; 4 dets; 15.32 Hz
+speaker_detect/output/pyavi/012/video.avi-00061; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00062; 4 dets; 14.48 Hz
+speaker_detect/output/pyavi/012/video.avi-00063; 4 dets; 15.17 Hz
+speaker_detect/output/pyavi/012/video.avi-00064; 4 dets; 14.32 Hz
+speaker_detect/output/pyavi/012/video.avi-00065; 4 dets; 14.69 Hz
+speaker_detect/output/pyavi/012/video.avi-00066; 4 dets; 15.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00067; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00068; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00069; 4 dets; 14.41 Hz
+speaker_detect/output/pyavi/012/video.avi-00070; 4 dets; 15.03 Hz
+speaker_detect/output/pyavi/012/video.avi-00071; 4 dets; 15.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00072; 4 dets; 15.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00073; 4 dets; 14.72 Hz
+speaker_detect/output/pyavi/012/video.avi-00074; 4 dets; 15.02 Hz
+speaker_detect/output/pyavi/012/video.avi-00075; 4 dets; 14.93 Hz
+speaker_detect/output/pyavi/012/video.avi-00076; 4 dets; 14.63 Hz
+speaker_detect/output/pyavi/012/video.avi-00077; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00078; 4 dets; 15.04 Hz
+speaker_detect/output/pyavi/012/video.avi-00079; 4 dets; 14.63 Hz
+speaker_detect/output/pyavi/012/video.avi-00080; 4 dets; 15.07 Hz
+speaker_detect/output/pyavi/012/video.avi-00081; 4 dets; 14.83 Hz
+speaker_detect/output/pyavi/012/video.avi-00082; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00083; 4 dets; 15.18 Hz
+speaker_detect/output/pyavi/012/video.avi-00084; 4 dets; 14.11 Hz
+speaker_detect/output/pyavi/012/video.avi-00085; 4 dets; 14.11 Hz
+speaker_detect/output/pyavi/012/video.avi-00086; 4 dets; 15.26 Hz
+speaker_detect/output/pyavi/012/video.avi-00087; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00088; 4 dets; 14.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00089; 4 dets; 14.96 Hz
+speaker_detect/output/pyavi/012/video.avi-00090; 4 dets; 14.52 Hz
+speaker_detect/output/pyavi/012/video.avi-00091; 4 dets; 15.17 Hz
+speaker_detect/output/pyavi/012/video.avi-00092; 4 dets; 14.62 Hz
+speaker_detect/output/pyavi/012/video.avi-00093; 4 dets; 15.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00094; 4 dets; 14.73 Hz
+speaker_detect/output/pyavi/012/video.avi-00095; 4 dets; 14.44 Hz
+speaker_detect/output/pyavi/012/video.avi-00096; 4 dets; 15.18 Hz
+speaker_detect/output/pyavi/012/video.avi-00097; 4 dets; 15.03 Hz
+speaker_detect/output/pyavi/012/video.avi-00098; 4 dets; 14.48 Hz
+speaker_detect/output/pyavi/012/video.avi-00099; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00100; 4 dets; 14.69 Hz
+speaker_detect/output/pyavi/012/video.avi-00101; 4 dets; 14.75 Hz
+speaker_detect/output/pyavi/012/video.avi-00102; 4 dets; 15.03 Hz
+speaker_detect/output/pyavi/012/video.avi-00103; 4 dets; 14.95 Hz
+speaker_detect/output/pyavi/012/video.avi-00104; 4 dets; 15.23 Hz
+speaker_detect/output/pyavi/012/video.avi-00105; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00106; 4 dets; 14.70 Hz
+speaker_detect/output/pyavi/012/video.avi-00107; 4 dets; 14.86 Hz
+speaker_detect/output/pyavi/012/video.avi-00108; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00109; 4 dets; 14.15 Hz
+speaker_detect/output/pyavi/012/video.avi-00110; 4 dets; 15.15 Hz
+speaker_detect/output/pyavi/012/video.avi-00111; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00112; 4 dets; 15.12 Hz
+speaker_detect/output/pyavi/012/video.avi-00113; 4 dets; 15.22 Hz
+speaker_detect/output/pyavi/012/video.avi-00114; 4 dets; 14.51 Hz
+speaker_detect/output/pyavi/012/video.avi-00115; 4 dets; 14.92 Hz
+speaker_detect/output/pyavi/012/video.avi-00116; 4 dets; 15.22 Hz
+speaker_detect/output/pyavi/012/video.avi-00117; 4 dets; 14.63 Hz
+speaker_detect/output/pyavi/012/video.avi-00118; 4 dets; 14.77 Hz
+speaker_detect/output/pyavi/012/video.avi-00119; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00120; 4 dets; 14.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00121; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00122; 4 dets; 15.04 Hz
+speaker_detect/output/pyavi/012/video.avi-00123; 4 dets; 14.53 Hz
+speaker_detect/output/pyavi/012/video.avi-00124; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00125; 4 dets; 14.99 Hz
+speaker_detect/output/pyavi/012/video.avi-00126; 4 dets; 14.65 Hz
+speaker_detect/output/pyavi/012/video.avi-00127; 4 dets; 14.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00128; 4 dets; 14.68 Hz
+speaker_detect/output/pyavi/012/video.avi-00129; 4 dets; 13.85 Hz
+speaker_detect/output/pyavi/012/video.avi-00130; 4 dets; 14.47 Hz
+speaker_detect/output/pyavi/012/video.avi-00131; 4 dets; 15.22 Hz
+speaker_detect/output/pyavi/012/video.avi-00132; 4 dets; 14.45 Hz
+speaker_detect/output/pyavi/012/video.avi-00133; 4 dets; 14.65 Hz
+speaker_detect/output/pyavi/012/video.avi-00134; 4 dets; 14.42 Hz
+speaker_detect/output/pyavi/012/video.avi-00135; 4 dets; 15.12 Hz
+speaker_detect/output/pyavi/012/video.avi-00136; 4 dets; 14.90 Hz
+speaker_detect/output/pyavi/012/video.avi-00137; 4 dets; 14.79 Hz
+speaker_detect/output/pyavi/012/video.avi-00138; 4 dets; 14.32 Hz
+speaker_detect/output/pyavi/012/video.avi-00139; 4 dets; 14.41 Hz
+speaker_detect/output/pyavi/012/video.avi-00140; 4 dets; 14.68 Hz
+speaker_detect/output/pyavi/012/video.avi-00141; 4 dets; 14.64 Hz
+speaker_detect/output/pyavi/012/video.avi-00142; 4 dets; 14.86 Hz
+speaker_detect/output/pyavi/012/video.avi-00143; 4 dets; 15.26 Hz
+speaker_detect/output/pyavi/012/video.avi-00144; 4 dets; 14.62 Hz
+speaker_detect/output/pyavi/012/video.avi-00145; 4 dets; 14.56 Hz
+speaker_detect/output/pyavi/012/video.avi-00146; 4 dets; 14.62 Hz
+speaker_detect/output/pyavi/012/video.avi-00147; 4 dets; 14.71 Hz
+speaker_detect/output/pyavi/012/video.avi-00148; 4 dets; 14.37 Hz
+speaker_detect/output/pyavi/012/video.avi-00149; 4 dets; 15.04 Hz
+speaker_detect/output/pyavi/012/video.avi-00150; 4 dets; 14.54 Hz
+speaker_detect/output/pyavi/012/video.avi-00151; 4 dets; 15.26 Hz
+speaker_detect/output/pyavi/012/video.avi-00152; 4 dets; 15.02 Hz
+speaker_detect/output/pyavi/012/video.avi-00153; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00154; 4 dets; 15.18 Hz
+speaker_detect/output/pyavi/012/video.avi-00155; 4 dets; 14.51 Hz
+speaker_detect/output/pyavi/012/video.avi-00156; 4 dets; 14.34 Hz
+speaker_detect/output/pyavi/012/video.avi-00157; 4 dets; 14.52 Hz
+speaker_detect/output/pyavi/012/video.avi-00158; 4 dets; 14.65 Hz
+speaker_detect/output/pyavi/012/video.avi-00159; 4 dets; 14.35 Hz
+speaker_detect/output/pyavi/012/video.avi-00160; 4 dets; 14.75 Hz
+speaker_detect/output/pyavi/012/video.avi-00161; 4 dets; 14.94 Hz
+speaker_detect/output/pyavi/012/video.avi-00162; 4 dets; 14.93 Hz
+speaker_detect/output/pyavi/012/video.avi-00163; 4 dets; 14.73 Hz
+speaker_detect/output/pyavi/012/video.avi-00164; 4 dets; 15.29 Hz
+speaker_detect/output/pyavi/012/video.avi-00165; 4 dets; 14.85 Hz
+speaker_detect/output/pyavi/012/video.avi-00166; 4 dets; 14.71 Hz
+speaker_detect/output/pyavi/012/video.avi-00167; 4 dets; 14.97 Hz
+speaker_detect/output/pyavi/012/video.avi-00168; 4 dets; 14.53 Hz
+speaker_detect/output/pyavi/012/video.avi-00169; 4 dets; 15.09 Hz
+speaker_detect/output/pyavi/012/video.avi-00170; 4 dets; 14.95 Hz
+speaker_detect/output/pyavi/012/video.avi-00171; 4 dets; 14.40 Hz
+speaker_detect/output/pyavi/012/video.avi-00172; 4 dets; 14.23 Hz
+speaker_detect/output/pyavi/012/video.avi-00173; 4 dets; 15.15 Hz
+speaker_detect/output/pyavi/012/video.avi-00174; 4 dets; 15.30 Hz
+speaker_detect/output/pyavi/012/video.avi-00175; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00176; 4 dets; 14.97 Hz
+speaker_detect/output/pyavi/012/video.avi-00177; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00178; 4 dets; 15.18 Hz
+speaker_detect/output/pyavi/012/video.avi-00179; 4 dets; 14.31 Hz
+speaker_detect/output/pyavi/012/video.avi-00180; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00181; 4 dets; 14.50 Hz
+speaker_detect/output/pyavi/012/video.avi-00182; 4 dets; 14.91 Hz
+speaker_detect/output/pyavi/012/video.avi-00183; 4 dets; 14.96 Hz
+speaker_detect/output/pyavi/012/video.avi-00184; 4 dets; 14.73 Hz
+speaker_detect/output/pyavi/012/video.avi-00185; 4 dets; 14.88 Hz
+speaker_detect/output/pyavi/012/video.avi-00186; 4 dets; 14.73 Hz
+speaker_detect/output/pyavi/012/video.avi-00187; 4 dets; 15.18 Hz
+speaker_detect/output/pyavi/012/video.avi-00188; 4 dets; 14.44 Hz
+speaker_detect/output/pyavi/012/video.avi-00189; 4 dets; 15.10 Hz
+speaker_detect/output/pyavi/012/video.avi-00190; 4 dets; 14.57 Hz
+speaker_detect/output/pyavi/012/video.avi-00191; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00192; 4 dets; 15.09 Hz
+speaker_detect/output/pyavi/012/video.avi-00193; 4 dets; 14.48 Hz
+speaker_detect/output/pyavi/012/video.avi-00194; 4 dets; 15.06 Hz
+speaker_detect/output/pyavi/012/video.avi-00195; 4 dets; 14.53 Hz
+speaker_detect/output/pyavi/012/video.avi-00196; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00197; 4 dets; 13.98 Hz
+speaker_detect/output/pyavi/012/video.avi-00198; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/012/video.avi-00199; 4 dets; 14.88 Hz
+speaker_detect/output/pyavi/012/video.avi-00200; 4 dets; 15.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00201; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00202; 4 dets; 14.63 Hz
+speaker_detect/output/pyavi/012/video.avi-00203; 4 dets; 14.99 Hz
+speaker_detect/output/pyavi/012/video.avi-00204; 4 dets; 14.53 Hz
+speaker_detect/output/pyavi/012/video.avi-00205; 4 dets; 14.72 Hz
+speaker_detect/output/pyavi/012/video.avi-00206; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00207; 4 dets; 14.50 Hz
+speaker_detect/output/pyavi/012/video.avi-00208; 4 dets; 14.97 Hz
+speaker_detect/output/pyavi/012/video.avi-00209; 4 dets; 14.61 Hz
+speaker_detect/output/pyavi/012/video.avi-00210; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00211; 4 dets; 14.92 Hz
+speaker_detect/output/pyavi/012/video.avi-00212; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00213; 4 dets; 14.81 Hz
+speaker_detect/output/pyavi/012/video.avi-00214; 4 dets; 14.65 Hz
+speaker_detect/output/pyavi/012/video.avi-00215; 4 dets; 14.68 Hz
+speaker_detect/output/pyavi/012/video.avi-00216; 4 dets; 14.52 Hz
+speaker_detect/output/pyavi/012/video.avi-00217; 4 dets; 15.16 Hz
+speaker_detect/output/pyavi/012/video.avi-00218; 4 dets; 15.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00219; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00220; 4 dets; 14.92 Hz
+speaker_detect/output/pyavi/012/video.avi-00221; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00222; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00223; 4 dets; 14.50 Hz
+speaker_detect/output/pyavi/012/video.avi-00224; 5 dets; 15.03 Hz
+speaker_detect/output/pyavi/012/video.avi-00225; 4 dets; 14.33 Hz
+speaker_detect/output/pyavi/012/video.avi-00226; 4 dets; 14.97 Hz
+speaker_detect/output/pyavi/012/video.avi-00227; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/012/video.avi-00228; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00229; 4 dets; 15.10 Hz
+speaker_detect/output/pyavi/012/video.avi-00230; 4 dets; 14.95 Hz
+speaker_detect/output/pyavi/012/video.avi-00231; 4 dets; 15.06 Hz
+speaker_detect/output/pyavi/012/video.avi-00232; 4 dets; 15.12 Hz
+speaker_detect/output/pyavi/012/video.avi-00233; 4 dets; 14.32 Hz
+speaker_detect/output/pyavi/012/video.avi-00234; 4 dets; 14.86 Hz
+speaker_detect/output/pyavi/012/video.avi-00235; 4 dets; 14.56 Hz
+speaker_detect/output/pyavi/012/video.avi-00236; 4 dets; 14.38 Hz
+speaker_detect/output/pyavi/012/video.avi-00237; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00238; 4 dets; 14.35 Hz
+speaker_detect/output/pyavi/012/video.avi-00239; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00240; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00241; 5 dets; 15.06 Hz
+speaker_detect/output/pyavi/012/video.avi-00242; 4 dets; 15.23 Hz
+speaker_detect/output/pyavi/012/video.avi-00243; 4 dets; 14.21 Hz
+speaker_detect/output/pyavi/012/video.avi-00244; 4 dets; 14.52 Hz
+speaker_detect/output/pyavi/012/video.avi-00245; 4 dets; 14.84 Hz
+speaker_detect/output/pyavi/012/video.avi-00246; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00247; 4 dets; 15.18 Hz
+speaker_detect/output/pyavi/012/video.avi-00248; 4 dets; 14.99 Hz
+speaker_detect/output/pyavi/012/video.avi-00249; 4 dets; 14.74 Hz
+speaker_detect/output/pyavi/012/video.avi-00250; 4 dets; 13.99 Hz
+speaker_detect/output/pyavi/012/video.avi-00251; 4 dets; 15.02 Hz
+speaker_detect/output/pyavi/012/video.avi-00252; 4 dets; 14.36 Hz
+speaker_detect/output/pyavi/012/video.avi-00253; 4 dets; 14.50 Hz
+speaker_detect/output/pyavi/012/video.avi-00254; 4 dets; 15.10 Hz
+speaker_detect/output/pyavi/012/video.avi-00255; 4 dets; 14.27 Hz
+speaker_detect/output/pyavi/012/video.avi-00256; 4 dets; 14.47 Hz
+speaker_detect/output/pyavi/012/video.avi-00257; 4 dets; 15.41 Hz
+speaker_detect/output/pyavi/012/video.avi-00258; 4 dets; 15.15 Hz
+speaker_detect/output/pyavi/012/video.avi-00259; 4 dets; 14.89 Hz
+speaker_detect/output/pyavi/012/video.avi-00260; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00261; 5 dets; 14.97 Hz
+speaker_detect/output/pyavi/012/video.avi-00262; 4 dets; 14.82 Hz
+speaker_detect/output/pyavi/012/video.avi-00263; 4 dets; 15.04 Hz
+speaker_detect/output/pyavi/012/video.avi-00264; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00265; 4 dets; 14.39 Hz
+speaker_detect/output/pyavi/012/video.avi-00266; 4 dets; 14.98 Hz
+speaker_detect/output/pyavi/012/video.avi-00267; 4 dets; 14.79 Hz
+speaker_detect/output/pyavi/012/video.avi-00268; 4 dets; 14.69 Hz
+speaker_detect/output/pyavi/012/video.avi-00269; 4 dets; 15.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00270; 4 dets; 14.52 Hz
+speaker_detect/output/pyavi/012/video.avi-00271; 4 dets; 14.43 Hz
+speaker_detect/output/pyavi/012/video.avi-00272; 4 dets; 15.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00273; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00274; 4 dets; 15.21 Hz
+speaker_detect/output/pyavi/012/video.avi-00275; 4 dets; 14.83 Hz
+speaker_detect/output/pyavi/012/video.avi-00276; 4 dets; 15.16 Hz
+speaker_detect/output/pyavi/012/video.avi-00277; 4 dets; 13.66 Hz
+speaker_detect/output/pyavi/012/video.avi-00278; 4 dets; 14.30 Hz
+speaker_detect/output/pyavi/012/video.avi-00279; 4 dets; 14.38 Hz
+speaker_detect/output/pyavi/012/video.avi-00280; 4 dets; 14.58 Hz
+speaker_detect/output/pyavi/012/video.avi-00281; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00282; 4 dets; 14.33 Hz
+speaker_detect/output/pyavi/012/video.avi-00283; 4 dets; 14.10 Hz
+speaker_detect/output/pyavi/012/video.avi-00284; 4 dets; 14.50 Hz
+speaker_detect/output/pyavi/012/video.avi-00285; 4 dets; 14.45 Hz
+speaker_detect/output/pyavi/012/video.avi-00286; 4 dets; 14.86 Hz
+speaker_detect/output/pyavi/012/video.avi-00287; 4 dets; 14.86 Hz
+speaker_detect/output/pyavi/012/video.avi-00288; 4 dets; 14.11 Hz
+speaker_detect/output/pyavi/012/video.avi-00289; 4 dets; 14.61 Hz
+speaker_detect/output/pyavi/012/video.avi-00290; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00291; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00292; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00293; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00294; 4 dets; 14.59 Hz
+speaker_detect/output/pyavi/012/video.avi-00295; 4 dets; 15.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00296; 4 dets; 15.17 Hz
+speaker_detect/output/pyavi/012/video.avi-00297; 4 dets; 14.54 Hz
+speaker_detect/output/pyavi/012/video.avi-00298; 4 dets; 14.53 Hz
+speaker_detect/output/pyavi/012/video.avi-00299; 4 dets; 14.46 Hz
+speaker_detect/output/pyavi/012/video.avi-00300; 4 dets; 15.17 Hz
+speaker_detect/output/pyavi/012/video.avi-00301; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00302; 4 dets; 14.90 Hz
+speaker_detect/output/pyavi/012/video.avi-00303; 4 dets; 14.43 Hz
+speaker_detect/output/pyavi/012/video.avi-00304; 4 dets; 14.16 Hz
+speaker_detect/output/pyavi/012/video.avi-00305; 4 dets; 14.44 Hz
+speaker_detect/output/pyavi/012/video.avi-00306; 4 dets; 15.16 Hz
+speaker_detect/output/pyavi/012/video.avi-00307; 4 dets; 14.99 Hz
+speaker_detect/output/pyavi/012/video.avi-00308; 4 dets; 14.26 Hz
+speaker_detect/output/pyavi/012/video.avi-00309; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00310; 4 dets; 15.16 Hz
+speaker_detect/output/pyavi/012/video.avi-00311; 4 dets; 14.88 Hz
+speaker_detect/output/pyavi/012/video.avi-00312; 4 dets; 15.10 Hz
+speaker_detect/output/pyavi/012/video.avi-00313; 4 dets; 15.09 Hz
+speaker_detect/output/pyavi/012/video.avi-00314; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00315; 4 dets; 14.88 Hz
+speaker_detect/output/pyavi/012/video.avi-00316; 4 dets; 14.98 Hz
+speaker_detect/output/pyavi/012/video.avi-00317; 4 dets; 15.31 Hz
+speaker_detect/output/pyavi/012/video.avi-00318; 4 dets; 14.70 Hz
+speaker_detect/output/pyavi/012/video.avi-00319; 4 dets; 15.21 Hz
+speaker_detect/output/pyavi/012/video.avi-00320; 4 dets; 15.12 Hz
+speaker_detect/output/pyavi/012/video.avi-00321; 4 dets; 14.71 Hz
+speaker_detect/output/pyavi/012/video.avi-00322; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00323; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00324; 4 dets; 15.02 Hz
+speaker_detect/output/pyavi/012/video.avi-00325; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00326; 4 dets; 14.70 Hz
+speaker_detect/output/pyavi/012/video.avi-00327; 4 dets; 14.50 Hz
+speaker_detect/output/pyavi/012/video.avi-00328; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00329; 4 dets; 14.77 Hz
+speaker_detect/output/pyavi/012/video.avi-00330; 4 dets; 15.16 Hz
+speaker_detect/output/pyavi/012/video.avi-00331; 4 dets; 15.19 Hz
+speaker_detect/output/pyavi/012/video.avi-00332; 4 dets; 14.55 Hz
+speaker_detect/output/pyavi/012/video.avi-00333; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00334; 4 dets; 14.54 Hz
+speaker_detect/output/pyavi/012/video.avi-00335; 4 dets; 14.62 Hz
+speaker_detect/output/pyavi/012/video.avi-00336; 4 dets; 15.06 Hz
+speaker_detect/output/pyavi/012/video.avi-00337; 4 dets; 15.11 Hz
+speaker_detect/output/pyavi/012/video.avi-00338; 4 dets; 14.80 Hz
+speaker_detect/output/pyavi/012/video.avi-00339; 4 dets; 14.49 Hz
+speaker_detect/output/pyavi/012/video.avi-00340; 4 dets; 14.85 Hz
+speaker_detect/output/pyavi/012/video.avi-00341; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/012/video.avi-00342; 4 dets; 14.37 Hz
+speaker_detect/output/pyavi/012/video.avi-00343; 4 dets; 15.19 Hz
+speaker_detect/output/pyavi/012/video.avi-00344; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00345; 4 dets; 14.56 Hz
+speaker_detect/output/pyavi/012/video.avi-00346; 4 dets; 14.73 Hz
+speaker_detect/output/pyavi/012/video.avi-00347; 4 dets; 15.14 Hz
+speaker_detect/output/pyavi/012/video.avi-00348; 4 dets; 14.93 Hz
+speaker_detect/output/pyavi/012/video.avi-00349; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/012/video.avi-00350; 4 dets; 15.36 Hz
+speaker_detect/output/pyavi/012/video.avi-00351; 4 dets; 14.41 Hz
+speaker_detect/output/pyavi/012/video.avi-00352; 4 dets; 14.14 Hz
+speaker_detect/output/pyavi/012/video.avi-00353; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00354; 4 dets; 14.40 Hz
+speaker_detect/output/pyavi/012/video.avi-00355; 4 dets; 15.09 Hz
+speaker_detect/output/pyavi/012/video.avi-00356; 4 dets; 15.29 Hz
+speaker_detect/output/pyavi/012/video.avi-00357; 4 dets; 14.71 Hz
+speaker_detect/output/pyavi/012/video.avi-00358; 4 dets; 14.48 Hz
+speaker_detect/output/pyavi/012/video.avi-00359; 4 dets; 14.95 Hz
+speaker_detect/output/pyavi/012/video.avi-00360; 5 dets; 14.47 Hz
+speaker_detect/output/pyavi/012/video.avi-00361; 5 dets; 15.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00362; 4 dets; 14.87 Hz
+speaker_detect/output/pyavi/012/video.avi-00363; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/012/video.avi-00364; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/012/video.avi-00365; 4 dets; 14.00 Hz
+speaker_detect/output/pyavi/012/video.avi-00366; 4 dets; 14.92 Hz
+speaker_detect/output/pyavi/012/video.avi-00367; 4 dets; 14.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00368; 4 dets; 15.28 Hz
+speaker_detect/output/pyavi/012/video.avi-00369; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00370; 4 dets; 14.32 Hz
+speaker_detect/output/pyavi/012/video.avi-00371; 4 dets; 14.62 Hz
+speaker_detect/output/pyavi/012/video.avi-00372; 4 dets; 14.46 Hz
+speaker_detect/output/pyavi/012/video.avi-00373; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/012/video.avi-00374; 4 dets; 15.15 Hz
+speaker_detect/output/pyavi/012/video.avi-00375; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/012/video.avi-00376; 4 dets; 14.68 Hz
+speaker_detect/output/pyavi/012/video.avi-00377; 5 dets; 15.08 Hz
+speaker_detect/output/pyavi/012/video.avi-00378; 5 dets; 14.82 Hz
+speaker_detect/output/pyavi/012/video.avi-00379; 4 dets; 15.19 Hz
+speaker_detect/output/pyavi/012/video.avi-00380; 4 dets; 14.22 Hz
+speaker_detect/output/pyavi/012/video.avi-00381; 4 dets; 14.50 Hz
+speaker_detect/output/pyavi/012/video.avi-00382; 4 dets; 14.79 Hz
+speaker_detect/output/pyavi/012/video.avi-00383; 4 dets; 14.82 Hz
+speaker_detect/output/pyavi/012/video.avi-00384; 4 dets; 14.49 Hz
+speaker_detect/output/pyavi/012/video.avi-00385; 4 dets; 14.45 Hz
+speaker_detect/output/pyavi/012/video.avi-00386; 4 dets; 15.20 Hz
+speaker_detect/output/pyavi/012/video.avi-00387; 4 dets; 14.35 Hz
+speaker_detect/output/pyavi/012/video.avi-00388; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00389; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/012/video.avi-00390; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/012/video.avi-00391; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/012/video.avi-00392; 4 dets; 14.72 Hz
+speaker_detect/output/pyavi/012/video.avi-00393; 4 dets; 14.32 Hz
+speaker_detect/output/pyavi/012/video.avi-00394; 4 dets; 15.18 Hz
+===============videoManager is: <scenedetect.video_manager.VideoManager object at 0x7f5f1c848f60>
+===============type of videoManager is: <class 'scenedetect.video_manager.VideoManager'>
+speaker_detect/output/pyavi/012/video.avi - scenes detected 0 from 395 frames
+Written speaker_detect/output/pycrop/012/00000
+Written speaker_detect/output/pycrop/012/00001
+Written speaker_detect/output/pycrop/012/00002
+Written speaker_detect/output/pycrop/012/00003
+==============================Now is working on run_syncnet_fixed.py=====================
+Model speaker_detect/data/syncnet_v2.model loaded.
+
+Extracting Features for the 1th face, this may take some seconds...
+
+Compute time 9.419 sec.
+Framewise conf: 
+[ 0.000  0.000  0.000  0.838  0.985  0.985  0.985  1.035  0.985  0.985
+  1.035  1.035  1.035  0.439  0.439  0.439  0.439  1.292  1.292  1.292
+  1.292  0.275  1.231  1.231  1.231  1.231  1.231  0.541  0.541  1.231
+  2.099  2.580  2.580  2.782  3.362  3.573  4.356  4.853  5.646  8.812
+  8.812  8.812  8.812  8.812  9.537  8.288  8.115  7.497  7.497  8.115
+  8.115  8.798  8.810  8.810  9.171  9.171  9.171  9.171  9.027  9.027
+  9.027  8.786  8.113  7.761  7.761  8.113  7.761  7.141  6.321  6.321
+  7.084  7.084  6.321  5.959  5.738  5.738  5.727  4.711  4.711  4.093
+  4.093  5.727  5.820  6.413  6.745  6.745  6.745  6.745  6.745  5.994
+  5.119  2.685  1.532  0.255  0.221 -0.969 -0.969 -0.969 -0.969 -0.969
+ -0.969 -0.969 -0.969 -0.601  0.170 -0.601 -0.601 -0.601  0.296  0.333
+  0.333  0.333  0.296  0.815  0.815  0.560  0.044 -0.603 -0.826 -2.291
+ -2.291 -4.701 -6.288 -7.249 -7.249 -7.249 -7.249 -6.229 -6.229 -3.441
+ -3.423 -2.952 -2.952 -2.952 -2.952 -3.101 -3.101 -3.101 -3.468 -3.543
+ -3.639 -3.543 -3.543 -3.543 -3.543 -3.543 -2.712 -2.048  0.116  0.279
+  0.279  0.279  0.279  0.116 -0.683 -2.316 -3.374 -4.750 -4.750 -5.051
+ -5.126 -5.126 -5.126 -5.126 -5.126 -4.377 -3.115 -3.115 -2.835 -2.573
+ -2.573 -2.632 -2.632 -2.632 -2.632 -2.573 -2.573 -2.573 -1.907 -1.571
+ -1.571 -1.571 -1.571 -1.907 -1.957 -1.957 -2.280 -2.280 -2.280 -1.957
+ -0.365  1.068  1.071  1.071  1.458  1.669  1.669  1.669  1.529  1.529
+  1.529  1.669  2.077  2.077  2.077  2.077  2.077  2.077  2.017  0.550
+  0.550  0.550  0.550  2.017  2.106  2.106  2.106  2.106  2.106  1.701
+  1.390 -0.496 -0.496 -0.716 -1.534 -1.849 -1.874 -1.948 -2.801 -2.920
+ -3.601 -3.601 -3.629 -4.013 -4.013 -3.629 -3.601 -2.971 -2.971 -2.456
+  0.479  2.326  3.838  6.073  6.073  6.073  6.073  6.073  2.719  2.719
+  1.452  0.854  0.854  0.741  0.741  1.029  1.188  1.029  0.052  1.029
+  1.188  1.188  1.540  1.540  1.188  0.052  0.052 -0.921 -1.861 -1.861
+ -2.062 -2.062 -2.062 -1.861 -1.765 -1.303 -0.070  1.194  3.173  3.967
+  5.027  5.027  5.027  5.027  5.027 -4.400 -4.400 -4.400 -4.400 -4.400
+ -4.251 -1.961 -0.345  0.327  1.775  3.401  3.401  3.538  3.538  3.538
+  3.401  3.152 -0.713 -0.713 -0.713 -1.792 -1.792 -1.833 -1.833 -1.833
+ -1.792 -1.291 -1.833 -2.228 -1.833 -1.833 -1.291 -1.291 -1.291 -1.291
+ -1.071 -0.949  0.304  0.436  0.436 -0.497 -0.497 -0.497 -0.497 -1.247
+ -1.915 -2.436 -2.698 -2.782 -2.782 -2.782 -2.747 -2.698 -2.436 -1.370
+ -0.334 -0.334 -0.334 -0.334 -0.283 -0.282  0.064  0.354  0.064 -0.060
+  0.064  0.354  2.039  2.039  2.039  2.119  2.697  2.952  3.358  4.191
+  4.848  4.860  5.254  5.943  5.943  5.943  5.943  5.705  5.943  5.705
+  5.235  4.700  4.402  4.386  4.402  4.386  2.658  2.022  2.022  2.022
+  2.658  3.509  3.509  3.509  3.509  3.509  3.509  3.460]
+AV offset: 	-6 
+Min dist: 	12.812
+Confidence: 	0.889
+
+Extracting Features for the 2th face, this may take some seconds...
+
+Compute time 9.836 sec.
+Framewise conf: 
+[ 0.000  0.000  0.000  0.082  1.765  1.900  1.900  1.900  1.900  1.765
+ -2.838 -2.838 -2.838 -2.838 -2.838 -2.005 -2.005 -2.005 -2.005 -2.005
+ -3.595 -3.595 -3.595 -3.595 -3.595 -3.678 -3.275 -3.275 -3.064 -2.248
+ -0.853 -0.576 -0.576 -0.016 -0.016  0.672  0.686  0.686  0.686  0.686
+  0.672  0.274 -0.177 -0.911 -4.231 -4.231 -4.231 -4.231 -4.231 -3.598
+ -1.625  0.439  1.078  1.078  1.440  1.440  1.078  0.439 -0.081 -2.252
+ -2.952 -3.596 -3.596 -3.596 -3.596 -3.596  2.648  4.691  5.525  5.525
+  5.525  5.525  4.691  5.196  4.056  3.965  2.875  1.740  1.211  1.211
+  1.211  0.539  0.380  0.191 -0.503 -1.354 -1.629 -2.067 -2.067 -2.067
+ -2.067 -1.629 -1.406 -1.345 -1.297 -1.275 -0.406 -1.275 -1.275 -1.275
+ -0.262 -0.225  0.052  0.539  0.620  0.539  0.539  0.620  0.539  0.539
+  0.191 -0.540 -2.174 -2.265 -3.144 -3.144 -3.144 -3.144 -2.874 -2.874
+ -1.531  0.961  1.121  1.121  1.311  1.509  1.509  1.509  1.509  1.514
+  2.548  2.548  2.548  1.509  1.729  1.729 -0.632 -0.632 -0.632 -0.632
+  1.689  1.729  1.996  1.996  1.996  2.489  3.634  3.996  4.072  4.072
+  3.996  2.489  2.489  2.489  0.301  0.262  0.262  0.207  0.207  0.207
+  0.207  0.207  0.471  0.599  1.277  1.414  1.414  1.414  1.414  1.414
+ -0.662 -3.251 -3.711 -4.707 -4.707 -4.707 -4.295 -3.711 -3.251 -3.251
+ -2.934 -1.022 -0.452 -0.452 -0.894 -0.894 -0.894 -0.077  4.188  4.188
+  4.188  3.861  3.861  3.861  3.861  3.861  3.861  3.805  2.696  0.222
+ -1.374 -1.374 -1.414 -0.660 -1.414 -1.414 -1.414 -1.414 -0.925 -0.660
+ -0.660 -0.352  0.770  1.322  1.322  3.367  3.367  3.540  4.333  4.333
+  3.540  3.367  3.044  1.936  1.772  1.936  1.394  0.508  0.130  0.130
+  0.130  0.130  1.888  3.089  3.105  3.105  3.105  3.105  3.105  3.105
+  5.777  4.557  2.575  2.475  2.475  4.557  6.118  8.291  8.291  6.679
+  7.000  7.000  8.291  8.310  7.000  7.000  7.000  7.726  7.945  8.018
+  8.349  8.018  8.018  8.018  7.945  8.018  8.349  8.525  8.525  8.525
+  8.525  8.376  8.376  8.376  7.162  6.860  6.579  6.061  5.869  5.869
+  5.173  5.173  5.173  5.173  4.897  5.173  5.698  5.817  5.817  5.817
+  5.698  5.593  5.290  5.290  5.163  3.696  1.583  1.583  1.545  1.300
+  1.300  1.300  1.300  1.545  1.845  2.117  2.960  3.189  3.189  4.265
+  4.947  4.947  4.947  4.598  3.189  1.917 -0.297 -0.304 -0.705 -0.705
+ -0.705 -0.705 -0.705 -1.749 -2.698 -2.698 -3.253 -3.253 -3.253 -3.352
+ -3.604 -3.604 -3.352 -3.253 -2.563 -2.111 -1.796  1.953  2.099  2.099
+  2.099  2.131  2.131  2.131  2.131  2.131  2.361  2.782  6.576  6.759
+  6.862  6.862  6.862  7.067  7.337  7.067  6.862  6.794  6.204  5.967
+  5.785  5.320  5.228  4.147  1.353  1.317  1.317  1.317  1.165  1.317
+  1.353  1.547  1.886  2.815  2.974  3.033  3.269  3.269  3.269  3.269
+  3.269  3.269  3.269  3.269  3.269  2.779  1.455  1.455]
+AV offset: 	-15 
+Min dist: 	12.927
+Confidence: 	1.662
+
+Extracting Features for the 3th face, this may take some seconds...
+
+Compute time 9.599 sec.
+Framewise conf: 
+[ 0.000  0.111  0.111  0.111  0.111  0.111  0.111  0.111  0.111 -1.504
+ -1.797 -1.797 -1.797 -1.797 -3.081 -3.081 -3.516 -3.516 -3.516 -3.461
+ -3.081 -2.093 -1.835 -1.590 -1.116 -0.971 -0.063  0.178  0.405  3.126
+  3.126  3.126  3.126  3.126  1.671  1.671  1.671  1.671  1.671  4.271
+  4.271  4.282  4.282  4.282  4.271  2.880  2.880  2.870  2.508  2.033
+  1.323  1.187  1.323  1.323  1.187  1.187  1.323  1.387  1.607  1.607
+  2.111  2.660  2.660  2.672  2.672  2.111  2.111  2.111  2.672  2.862
+  3.488  7.716  7.858  7.858  7.858  7.858  7.716  7.295  6.956  4.700
+  3.436  3.232  1.542  1.437  0.820  0.820  0.784  0.784 -0.389 -0.389
+ -0.389 -0.393 -0.516 -0.516 -0.516 -0.516 -0.516 -0.393 -0.393  0.262
+  0.262  0.262 -0.155 -0.155 -0.155  0.262  0.321  0.571  0.321  0.571
+  1.211  1.415  3.104  4.274  4.274  4.274  4.274  4.274  3.928  1.331
+  0.185 -0.062 -0.333 -0.491 -0.491 -0.333 -0.333 -0.491 -0.491 -0.491
+ -1.022 -1.186 -1.186 -1.186 -1.434 -1.560 -1.686 -1.686 -1.186 -0.671
+ -0.411 -0.387 -0.387  0.981  1.714  1.957  2.725  2.725  2.725  2.725
+  2.725  2.725  2.725  2.725  0.960  0.471  0.471  0.471  0.471 -0.972
+ -0.972 -0.972 -0.972 -0.972  2.691  2.738  2.738  2.738  2.738  2.691
+  2.375  0.686  0.686  0.686  0.416  0.416  0.416  0.686  1.512  1.512
+  1.940  1.854  1.940  1.940  3.954  3.960  4.102  4.262  4.262  4.905
+  4.905  4.905  4.905  4.905  4.890  0.152 -0.111 -0.111 -0.111 -0.111
+ -0.111 -0.111 -0.111 -0.111 -0.111  0.145  1.558  0.740  0.740  0.841
+  0.841  0.841  0.841  0.740 -0.976 -1.124 -1.124 -1.124 -1.316 -1.175
+ -1.175 -1.175 -1.175 -1.316 -4.214 -4.382 -5.638 -5.638 -5.642 -5.642
+ -6.461 -6.461 -5.642 -5.537 -5.456 -3.165  1.024  1.024  1.076  1.076
+  1.076  1.076  0.486  0.260 -0.455 -0.637 -0.871 -1.161 -1.161 -1.161
+ -1.161 -1.161 -0.871 -0.637  0.238  0.627  0.886  0.886  1.037  1.037
+  1.037  0.886  0.238 -1.847 -2.660 -3.130 -3.576 -3.576 -3.576 -2.660
+ -1.929 -1.929 -0.662  0.669  2.301  2.301  2.301  2.301  2.301  1.476
+ -0.298 -0.298 -0.298 -0.298 -0.298  0.331  2.323  4.441  4.924  5.234
+  5.234  5.234  5.234  4.924  4.466  1.478 -0.290 -2.173 -4.184 -5.087
+ -5.162 -5.559 -6.444 -6.619 -6.795 -6.619 -6.444 -5.689 -5.689 -5.689
+ -5.444 -5.333 -5.054 -3.066 -3.066 -3.019 -3.019 -3.019 -2.918 -3.066
+ -3.122 -3.548 -3.908 -4.511 -5.244 -4.511 -4.511 -4.511 -5.244 -4.768
+ -5.161 -4.768 -4.768 -4.242 -4.768 -4.768 -4.768 -4.686 -4.242 -3.740
+ -3.737 -3.700 -1.692 -1.692 -1.692 -1.090 -1.090 -0.950 -1.692 -1.692
+ -1.692 -1.648 -0.950 -0.550 -0.183  1.532  1.880  1.880  2.297  2.297
+  2.297  2.548  2.548  4.258  4.258  4.258  4.879  5.045  5.045  5.045
+  5.045  4.879  4.644  4.034  3.043  3.015  2.989  2.989  2.989  2.989
+  2.639  2.639  2.639  2.832  2.832  2.832  2.536  2.084]
+AV offset: 	-11 
+Min dist: 	14.870
+Confidence: 	0.287
+
+Extracting Features for the 4th face, this may take some seconds...
+
+Compute time 9.741 sec.
+Framewise conf: 
+[ 0.522  1.273  1.273  1.273  1.273  0.522  0.522  0.522  0.780 -0.165
+ -2.226 -2.226 -2.226 -2.226 -2.226 -2.278 -2.278 -2.278 -2.278 -1.768
+ -1.673 -1.072 -0.548  0.155  0.155 -0.180 -0.180  0.155  1.078  0.155
+  0.155  0.155  1.023  1.023  1.078  1.078  1.078  3.752  3.783  3.783
+  3.783  0.704  0.704  0.416  0.031 -1.306 -1.306 -1.306 -1.306 -1.306
+ -0.768  1.443  1.815  3.508  4.521  4.521  4.521  5.313  5.313  3.508
+  2.980  0.416 -1.940 -1.979 -2.105 -2.105 -2.105 -2.105 -1.940  1.783
+  6.365  6.639  7.399  7.399  7.399  6.639  6.365  5.366  3.999  2.904
+  2.131 -0.449 -2.582 -2.987 -3.590 -3.590 -3.601 -3.650 -3.650 -3.650
+ -3.650 -4.856 -4.856 -4.856 -4.922 -5.642 -4.975 -4.922 -4.856 -3.797
+ -3.797 -3.797 -3.797 -3.666 -3.462 -3.462 -3.116 -2.318 -2.281 -2.022
+ -1.723 -1.245 -1.245  0.289  0.289  0.289 -1.245 -2.163 -3.605 -3.605
+ -3.605 -3.605 -3.605 -3.336 -2.826 -2.826 -2.826 -2.826 -2.826 -3.672
+ -4.609 -4.609 -4.609 -4.609 -4.609 -3.616 -3.616 -2.055 -1.826 -1.341
+ -1.341 -1.341 -1.341 -0.341 -0.341  0.241  0.241  0.241 -0.341 -1.251
+ -2.347 -2.347 -2.347 -2.347 -3.070 -3.070 -2.347 -0.035 -0.035 -0.035
+ -2.083 -2.083 -2.083 -1.892 -1.114 -1.114 -1.114 -0.499 -0.499 -0.499
+ -0.499 -1.114 -2.998 -3.753 -3.753 -3.753 -3.753 -3.753 -2.493 -2.129
+ -1.827 -1.827 -1.185 -0.450 -0.335 -0.335 -0.335 -0.335 -0.335  0.194
+  0.416  0.416  0.636  2.158  2.182  2.265  2.868  2.868  3.059  3.661
+  3.661  3.661  3.059  2.868  3.059  4.156  3.148  3.148  3.148  3.148
+  3.148  3.148  3.148  1.703  0.904  0.904  0.880 -0.475 -0.484 -0.720
+ -0.871 -0.871 -0.720 -0.475 -0.475 -0.419  0.064  0.064  0.064  0.919
+  3.556  4.617  4.639  4.639  4.639  4.915  4.915  5.262  5.262  4.915
+  4.915  4.403  2.450  1.990  0.862 -0.807 -0.877 -0.877 -0.877 -0.877
+ -0.807 -0.719  0.294  1.452  2.635  2.635  2.635  2.635  2.635  1.547
+ -0.286 -0.509 -0.509 -0.509 -0.662 -0.810 -0.810 -0.286  0.647  1.546
+  2.934  3.254  4.040  4.769  4.914  4.914  4.914  4.914  4.914 -1.468
+ -1.468 -1.468 -1.468 -1.468 -1.322  1.198  2.819  4.137  4.633  4.633
+  4.633  4.137  3.534  3.534  1.971 -1.009 -2.034 -2.495 -2.812 -2.812
+ -3.206 -3.493 -3.493 -3.493 -3.493 -3.206 -3.493 -4.256 -4.256 -4.256
+ -2.993 -1.781 -1.137 -0.291 -0.186 -0.186 -0.186  0.407 -0.291 -1.137
+ -1.698 -2.480 -2.734 -2.734 -2.480 -2.812 -2.812 -2.812 -2.251 -1.904
+ -1.904 -1.904 -2.231 -2.231 -1.904 -1.480 -1.480 -1.480 -1.480 -0.063
+  0.784  1.048  1.048  0.784  0.784  0.784  0.151  0.151  0.151  0.151
+  0.151  2.776  3.356  3.356  3.980  4.813  4.813  4.938  4.938  4.938
+  5.186  5.186  5.466  5.186  3.845  3.845  3.344  3.344  3.845  3.344
+  3.240  2.786  2.786  2.786  3.240  4.400  5.387  5.387  5.387  5.387
+  5.572  5.572  5.572  6.076  6.076  6.076  4.163  2.806]
+AV offset: 	-12 
+Min dist: 	14.086
+Confidence: 	0.317
+==============================Now is working on get_speaker_score.py=====================
+
+Processing Face number 1 of 4...
+
+Processing Face number 2 of 4...
+
+Processing Face number 3 of 4...
+
+Processing Face number 4 of 4...
+Processing frame 1 of 388
+Processing frame 2 of 388
+Processing frame 3 of 388
+Processing frame 4 of 388
+Processing frame 5 of 388
+Processing frame 6 of 388
+Processing frame 7 of 388
+Processing frame 8 of 388
+Processing frame 9 of 388
+Processing frame 10 of 388
+Processing frame 11 of 388
+Processing frame 12 of 388
+Processing frame 13 of 388
+Processing frame 14 of 388
+Processing frame 15 of 388
+Processing frame 16 of 388
+Processing frame 17 of 388
+Processing frame 18 of 388
+Processing frame 19 of 388
+Processing frame 20 of 388
+Processing frame 21 of 388
+Processing frame 22 of 388
+Processing frame 23 of 388
+Processing frame 24 of 388
+Processing frame 25 of 388
+Processing frame 26 of 388
+Processing frame 27 of 388
+Processing frame 28 of 388
+Processing frame 29 of 388
+Processing frame 30 of 388
+Processing frame 31 of 388
+Processing frame 32 of 388
+Processing frame 33 of 388
+Processing frame 34 of 388
+Processing frame 35 of 388
+Processing frame 36 of 388
+Processing frame 37 of 388
+Processing frame 38 of 388
+Processing frame 39 of 388
+Processing frame 40 of 388
+Processing frame 41 of 388
+Processing frame 42 of 388
+Processing frame 43 of 388
+Processing frame 44 of 388
+Processing frame 45 of 388
+Processing frame 46 of 388
+Processing frame 47 of 388
+Processing frame 48 of 388
+Processing frame 49 of 388
+Processing frame 50 of 388
+Processing frame 51 of 388
+Processing frame 52 of 388
+Processing frame 53 of 388
+Processing frame 54 of 388
+Processing frame 55 of 388
+Processing frame 56 of 388
+Processing frame 57 of 388
+Processing frame 58 of 388
+Processing frame 59 of 388
+Processing frame 60 of 388
+Processing frame 61 of 388
+Processing frame 62 of 388
+Processing frame 63 of 388
+Processing frame 64 of 388
+Processing frame 65 of 388
+Processing frame 66 of 388
+Processing frame 67 of 388
+Processing frame 68 of 388
+Processing frame 69 of 388
+Processing frame 70 of 388
+Processing frame 71 of 388
+Processing frame 72 of 388
+Processing frame 73 of 388
+Processing frame 74 of 388
+Processing frame 75 of 388
+Processing frame 76 of 388
+Processing frame 77 of 388
+Processing frame 78 of 388
+Processing frame 79 of 388
+Processing frame 80 of 388
+Processing frame 81 of 388
+Processing frame 82 of 388
+Processing frame 83 of 388
+Processing frame 84 of 388
+Processing frame 85 of 388
+Processing frame 86 of 388
+Processing frame 87 of 388
+Processing frame 88 of 388
+Processing frame 89 of 388
+Processing frame 90 of 388
+Processing frame 91 of 388
+Processing frame 92 of 388
+Processing frame 93 of 388
+Processing frame 94 of 388
+Processing frame 95 of 388
+Processing frame 96 of 388
+Processing frame 97 of 388
+Processing frame 98 of 388
+Processing frame 99 of 388
+Processing frame 100 of 388
+Processing frame 101 of 388
+Processing frame 102 of 388
+Processing frame 103 of 388
+Processing frame 104 of 388
+Processing frame 105 of 388
+Processing frame 106 of 388
+Processing frame 107 of 388
+Processing frame 108 of 388
+Processing frame 109 of 388
+Processing frame 110 of 388
+Processing frame 111 of 388
+Processing frame 112 of 388
+Processing frame 113 of 388
+Processing frame 114 of 388
+Processing frame 115 of 388
+Processing frame 116 of 388
+Processing frame 117 of 388
+Processing frame 118 of 388
+Processing frame 119 of 388
+Processing frame 120 of 388
+Processing frame 121 of 388
+Processing frame 122 of 388
+Processing frame 123 of 388
+Processing frame 124 of 388
+Processing frame 125 of 388
+Processing frame 126 of 388
+Processing frame 127 of 388
+Processing frame 128 of 388
+Processing frame 129 of 388
+Processing frame 130 of 388
+Processing frame 131 of 388
+Processing frame 132 of 388
+Processing frame 133 of 388
+Processing frame 134 of 388
+Processing frame 135 of 388
+Processing frame 136 of 388
+Processing frame 137 of 388
+Processing frame 138 of 388
+Processing frame 139 of 388
+Processing frame 140 of 388
+Processing frame 141 of 388
+Processing frame 142 of 388
+Processing frame 143 of 388
+Processing frame 144 of 388
+Processing frame 145 of 388
+Processing frame 146 of 388
+Processing frame 147 of 388
+Processing frame 148 of 388
+Processing frame 149 of 388
+Processing frame 150 of 388
+Processing frame 151 of 388
+Processing frame 152 of 388
+Processing frame 153 of 388
+Processing frame 154 of 388
+Processing frame 155 of 388
+Processing frame 156 of 388
+Processing frame 157 of 388
+Processing frame 158 of 388
+Processing frame 159 of 388
+Processing frame 160 of 388
+Processing frame 161 of 388
+Processing frame 162 of 388
+Processing frame 163 of 388
+Processing frame 164 of 388
+Processing frame 165 of 388
+Processing frame 166 of 388
+Processing frame 167 of 388
+Processing frame 168 of 388
+Processing frame 169 of 388
+Processing frame 170 of 388
+Processing frame 171 of 388
+Processing frame 172 of 388
+Processing frame 173 of 388
+Processing frame 174 of 388
+Processing frame 175 of 388
+Processing frame 176 of 388
+Processing frame 177 of 388
+Processing frame 178 of 388
+Processing frame 179 of 388
+Processing frame 180 of 388
+Processing frame 181 of 388
+Processing frame 182 of 388
+Processing frame 183 of 388
+Processing frame 184 of 388
+Processing frame 185 of 388
+Processing frame 186 of 388
+Processing frame 187 of 388
+Processing frame 188 of 388
+Processing frame 189 of 388
+Processing frame 190 of 388
+Processing frame 191 of 388
+Processing frame 192 of 388
+Processing frame 193 of 388
+Processing frame 194 of 388
+Processing frame 195 of 388
+Processing frame 196 of 388
+Processing frame 197 of 388
+Processing frame 198 of 388
+Processing frame 199 of 388
+Processing frame 200 of 388
+Processing frame 201 of 388
+Processing frame 202 of 388
+Processing frame 203 of 388
+Processing frame 204 of 388
+Processing frame 205 of 388
+Processing frame 206 of 388
+Processing frame 207 of 388
+Processing frame 208 of 388
+Processing frame 209 of 388
+Processing frame 210 of 388
+Processing frame 211 of 388
+Processing frame 212 of 388
+Processing frame 213 of 388
+Processing frame 214 of 388
+Processing frame 215 of 388
+Processing frame 216 of 388
+Processing frame 217 of 388
+Processing frame 218 of 388
+Processing frame 219 of 388
+Processing frame 220 of 388
+Processing frame 221 of 388
+Processing frame 222 of 388
+Processing frame 223 of 388
+Processing frame 224 of 388
+Processing frame 225 of 388
+Processing frame 226 of 388
+Processing frame 227 of 388
+Processing frame 228 of 388
+Processing frame 229 of 388
+Processing frame 230 of 388
+Processing frame 231 of 388
+Processing frame 232 of 388
+Processing frame 233 of 388
+Processing frame 234 of 388
+Processing frame 235 of 388
+Processing frame 236 of 388
+Processing frame 237 of 388
+Processing frame 238 of 388
+Processing frame 239 of 388
+Processing frame 240 of 388
+Processing frame 241 of 388
+Processing frame 242 of 388
+Processing frame 243 of 388
+Processing frame 244 of 388
+Processing frame 245 of 388
+Processing frame 246 of 388
+Processing frame 247 of 388
+Processing frame 248 of 388
+Processing frame 249 of 388
+Processing frame 250 of 388
+Processing frame 251 of 388
+Processing frame 252 of 388
+Processing frame 253 of 388
+Processing frame 254 of 388
+Processing frame 255 of 388
+Processing frame 256 of 388
+Processing frame 257 of 388
+Processing frame 258 of 388
+Processing frame 259 of 388
+Processing frame 260 of 388
+Processing frame 261 of 388
+Processing frame 262 of 388
+Processing frame 263 of 388
+Processing frame 264 of 388
+Processing frame 265 of 388
+Processing frame 266 of 388
+Processing frame 267 of 388
+Processing frame 268 of 388
+Processing frame 269 of 388
+Processing frame 270 of 388
+Processing frame 271 of 388
+Processing frame 272 of 388
+Processing frame 273 of 388
+Processing frame 274 of 388
+Processing frame 275 of 388
+Processing frame 276 of 388
+Processing frame 277 of 388
+Processing frame 278 of 388
+Processing frame 279 of 388
+Processing frame 280 of 388
+Processing frame 281 of 388
+Processing frame 282 of 388
+Processing frame 283 of 388
+Processing frame 284 of 388
+Processing frame 285 of 388
+Processing frame 286 of 388
+Processing frame 287 of 388
+Processing frame 288 of 388
+Processing frame 289 of 388
+Processing frame 290 of 388
+Processing frame 291 of 388
+Processing frame 292 of 388
+Processing frame 293 of 388
+Processing frame 294 of 388
+Processing frame 295 of 388
+Processing frame 296 of 388
+Processing frame 297 of 388
+Processing frame 298 of 388
+Processing frame 299 of 388
+Processing frame 300 of 388
+Processing frame 301 of 388
+Processing frame 302 of 388
+Processing frame 303 of 388
+Processing frame 304 of 388
+Processing frame 305 of 388
+Processing frame 306 of 388
+Processing frame 307 of 388
+Processing frame 308 of 388
+Processing frame 309 of 388
+Processing frame 310 of 388
+Processing frame 311 of 388
+Processing frame 312 of 388
+Processing frame 313 of 388
+Processing frame 314 of 388
+Processing frame 315 of 388
+Processing frame 316 of 388
+Processing frame 317 of 388
+Processing frame 318 of 388
+Processing frame 319 of 388
+Processing frame 320 of 388
+Processing frame 321 of 388
+Processing frame 322 of 388
+Processing frame 323 of 388
+Processing frame 324 of 388
+Processing frame 325 of 388
+Processing frame 326 of 388
+Processing frame 327 of 388
+Processing frame 328 of 388
+Processing frame 329 of 388
+Processing frame 330 of 388
+Processing frame 331 of 388
+Processing frame 332 of 388
+Processing frame 333 of 388
+Processing frame 334 of 388
+Processing frame 335 of 388
+Processing frame 336 of 388
+Processing frame 337 of 388
+Processing frame 338 of 388
+Processing frame 339 of 388
+Processing frame 340 of 388
+Processing frame 341 of 388
+Processing frame 342 of 388
+Processing frame 343 of 388
+Processing frame 344 of 388
+Processing frame 345 of 388
+Processing frame 346 of 388
+Processing frame 347 of 388
+Processing frame 348 of 388
+Processing frame 349 of 388
+Processing frame 350 of 388
+Processing frame 351 of 388
+Processing frame 352 of 388
+Processing frame 353 of 388
+Processing frame 354 of 388
+Processing frame 355 of 388
+Processing frame 356 of 388
+Processing frame 357 of 388
+Processing frame 358 of 388
+Processing frame 359 of 388
+Processing frame 360 of 388
+Processing frame 361 of 388
+Processing frame 362 of 388
+Processing frame 363 of 388
+Processing frame 364 of 388
+Processing frame 365 of 388
+Processing frame 366 of 388
+Processing frame 367 of 388
+Processing frame 368 of 388
+Processing frame 369 of 388
+Processing frame 370 of 388
+Processing frame 371 of 388
+Processing frame 372 of 388
+Processing frame 373 of 388
+Processing frame 374 of 388
+Processing frame 375 of 388
+Processing frame 376 of 388
+Processing frame 377 of 388
+Processing frame 378 of 388
+Processing frame 379 of 388
+Processing frame 380 of 388
+Processing frame 381 of 388
+Processing frame 382 of 388
+Processing frame 383 of 388
+Processing frame 384 of 388
+Processing frame 385 of 388
+Processing frame 386 of 388
+Processing frame 387 of 388
+Processing frame 388 of 388
+(388, 720, 1280, 3)
+(396, 720, 1280, 3)
+==============================Now is working on run_pipeline_fixed.py=====================
+==============================Now is working on run_syncnet_fixed.py=====================
+Model speaker_detect/data/syncnet_v2.model loaded.
+==============================Now is working on get_speaker_score.py=====================
+==============================Now is working on run_pipeline_fixed.py=====================
+speaker_detect/output/pyavi/011/video.avi-00000; 3 dets; 1.79 Hz
+speaker_detect/output/pyavi/011/video.avi-00001; 3 dets; 13.61 Hz
+speaker_detect/output/pyavi/011/video.avi-00002; 3 dets; 14.82 Hz
+speaker_detect/output/pyavi/011/video.avi-00003; 3 dets; 14.30 Hz
+speaker_detect/output/pyavi/011/video.avi-00004; 3 dets; 14.92 Hz
+speaker_detect/output/pyavi/011/video.avi-00005; 3 dets; 14.59 Hz
+speaker_detect/output/pyavi/011/video.avi-00006; 3 dets; 14.75 Hz
+speaker_detect/output/pyavi/011/video.avi-00007; 3 dets; 14.93 Hz
+speaker_detect/output/pyavi/011/video.avi-00008; 3 dets; 14.73 Hz
+speaker_detect/output/pyavi/011/video.avi-00009; 3 dets; 15.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00010; 3 dets; 14.96 Hz
+speaker_detect/output/pyavi/011/video.avi-00011; 3 dets; 14.57 Hz
+speaker_detect/output/pyavi/011/video.avi-00012; 3 dets; 15.36 Hz
+speaker_detect/output/pyavi/011/video.avi-00013; 3 dets; 14.34 Hz
+speaker_detect/output/pyavi/011/video.avi-00014; 3 dets; 13.26 Hz
+speaker_detect/output/pyavi/011/video.avi-00015; 3 dets; 13.36 Hz
+speaker_detect/output/pyavi/011/video.avi-00016; 3 dets; 14.00 Hz
+speaker_detect/output/pyavi/011/video.avi-00017; 3 dets; 14.98 Hz
+speaker_detect/output/pyavi/011/video.avi-00018; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00019; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00020; 3 dets; 15.16 Hz
+speaker_detect/output/pyavi/011/video.avi-00021; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00022; 3 dets; 14.38 Hz
+speaker_detect/output/pyavi/011/video.avi-00023; 3 dets; 14.34 Hz
+speaker_detect/output/pyavi/011/video.avi-00024; 3 dets; 15.10 Hz
+speaker_detect/output/pyavi/011/video.avi-00025; 3 dets; 14.71 Hz
+speaker_detect/output/pyavi/011/video.avi-00026; 3 dets; 14.43 Hz
+speaker_detect/output/pyavi/011/video.avi-00027; 3 dets; 14.86 Hz
+speaker_detect/output/pyavi/011/video.avi-00028; 3 dets; 14.54 Hz
+speaker_detect/output/pyavi/011/video.avi-00029; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00030; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00031; 3 dets; 14.57 Hz
+speaker_detect/output/pyavi/011/video.avi-00032; 3 dets; 14.60 Hz
+speaker_detect/output/pyavi/011/video.avi-00033; 3 dets; 12.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00034; 3 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00035; 3 dets; 14.39 Hz
+speaker_detect/output/pyavi/011/video.avi-00036; 3 dets; 15.37 Hz
+speaker_detect/output/pyavi/011/video.avi-00037; 3 dets; 14.63 Hz
+speaker_detect/output/pyavi/011/video.avi-00038; 3 dets; 14.10 Hz
+speaker_detect/output/pyavi/011/video.avi-00039; 3 dets; 14.95 Hz
+speaker_detect/output/pyavi/011/video.avi-00040; 3 dets; 14.99 Hz
+speaker_detect/output/pyavi/011/video.avi-00041; 3 dets; 14.10 Hz
+speaker_detect/output/pyavi/011/video.avi-00042; 3 dets; 14.87 Hz
+speaker_detect/output/pyavi/011/video.avi-00043; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00044; 3 dets; 12.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00045; 3 dets; 14.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00046; 3 dets; 14.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00047; 3 dets; 14.96 Hz
+speaker_detect/output/pyavi/011/video.avi-00048; 3 dets; 14.84 Hz
+speaker_detect/output/pyavi/011/video.avi-00049; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00050; 3 dets; 14.63 Hz
+speaker_detect/output/pyavi/011/video.avi-00051; 3 dets; 15.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00052; 3 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00053; 3 dets; 14.92 Hz
+speaker_detect/output/pyavi/011/video.avi-00054; 3 dets; 15.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00055; 3 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00056; 3 dets; 14.76 Hz
+speaker_detect/output/pyavi/011/video.avi-00057; 3 dets; 14.89 Hz
+speaker_detect/output/pyavi/011/video.avi-00058; 3 dets; 15.19 Hz
+speaker_detect/output/pyavi/011/video.avi-00059; 3 dets; 14.44 Hz
+speaker_detect/output/pyavi/011/video.avi-00060; 3 dets; 15.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00061; 3 dets; 14.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00062; 3 dets; 13.54 Hz
+speaker_detect/output/pyavi/011/video.avi-00063; 3 dets; 13.65 Hz
+speaker_detect/output/pyavi/011/video.avi-00064; 3 dets; 13.99 Hz
+speaker_detect/output/pyavi/011/video.avi-00065; 3 dets; 14.39 Hz
+speaker_detect/output/pyavi/011/video.avi-00066; 3 dets; 15.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00067; 3 dets; 14.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00068; 3 dets; 13.46 Hz
+speaker_detect/output/pyavi/011/video.avi-00069; 3 dets; 13.12 Hz
+speaker_detect/output/pyavi/011/video.avi-00070; 3 dets; 13.88 Hz
+speaker_detect/output/pyavi/011/video.avi-00071; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00072; 3 dets; 15.15 Hz
+speaker_detect/output/pyavi/011/video.avi-00073; 3 dets; 14.23 Hz
+speaker_detect/output/pyavi/011/video.avi-00074; 3 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00075; 3 dets; 15.22 Hz
+speaker_detect/output/pyavi/011/video.avi-00076; 3 dets; 14.63 Hz
+speaker_detect/output/pyavi/011/video.avi-00077; 3 dets; 15.22 Hz
+speaker_detect/output/pyavi/011/video.avi-00078; 3 dets; 14.84 Hz
+speaker_detect/output/pyavi/011/video.avi-00079; 3 dets; 14.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00080; 3 dets; 14.48 Hz
+speaker_detect/output/pyavi/011/video.avi-00081; 3 dets; 14.39 Hz
+speaker_detect/output/pyavi/011/video.avi-00082; 3 dets; 13.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00083; 3 dets; 13.88 Hz
+speaker_detect/output/pyavi/011/video.avi-00084; 3 dets; 14.02 Hz
+speaker_detect/output/pyavi/011/video.avi-00085; 3 dets; 13.81 Hz
+speaker_detect/output/pyavi/011/video.avi-00086; 3 dets; 13.19 Hz
+speaker_detect/output/pyavi/011/video.avi-00087; 3 dets; 13.16 Hz
+speaker_detect/output/pyavi/011/video.avi-00088; 3 dets; 14.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00089; 3 dets; 14.45 Hz
+speaker_detect/output/pyavi/011/video.avi-00090; 3 dets; 13.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00091; 3 dets; 13.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00092; 3 dets; 13.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00093; 3 dets; 12.65 Hz
+speaker_detect/output/pyavi/011/video.avi-00094; 3 dets; 12.45 Hz
+speaker_detect/output/pyavi/011/video.avi-00095; 3 dets; 11.55 Hz
+speaker_detect/output/pyavi/011/video.avi-00096; 3 dets; 12.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00097; 3 dets; 12.80 Hz
+speaker_detect/output/pyavi/011/video.avi-00098; 3 dets; 12.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00099; 3 dets; 12.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00100; 3 dets; 11.99 Hz
+speaker_detect/output/pyavi/011/video.avi-00101; 3 dets; 12.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00102; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00103; 3 dets; 15.02 Hz
+speaker_detect/output/pyavi/011/video.avi-00104; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00105; 3 dets; 15.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00106; 3 dets; 15.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00107; 3 dets; 14.50 Hz
+speaker_detect/output/pyavi/011/video.avi-00108; 3 dets; 14.78 Hz
+speaker_detect/output/pyavi/011/video.avi-00109; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00110; 3 dets; 14.51 Hz
+speaker_detect/output/pyavi/011/video.avi-00111; 3 dets; 14.90 Hz
+speaker_detect/output/pyavi/011/video.avi-00112; 3 dets; 14.74 Hz
+speaker_detect/output/pyavi/011/video.avi-00113; 3 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00114; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00115; 3 dets; 14.54 Hz
+speaker_detect/output/pyavi/011/video.avi-00116; 3 dets; 14.41 Hz
+speaker_detect/output/pyavi/011/video.avi-00117; 3 dets; 15.22 Hz
+speaker_detect/output/pyavi/011/video.avi-00118; 3 dets; 15.17 Hz
+speaker_detect/output/pyavi/011/video.avi-00119; 3 dets; 14.99 Hz
+speaker_detect/output/pyavi/011/video.avi-00120; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00121; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00122; 3 dets; 14.56 Hz
+speaker_detect/output/pyavi/011/video.avi-00123; 3 dets; 14.22 Hz
+speaker_detect/output/pyavi/011/video.avi-00124; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00125; 3 dets; 14.78 Hz
+speaker_detect/output/pyavi/011/video.avi-00126; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00127; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00128; 3 dets; 14.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00129; 3 dets; 15.28 Hz
+speaker_detect/output/pyavi/011/video.avi-00130; 3 dets; 14.76 Hz
+speaker_detect/output/pyavi/011/video.avi-00131; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00132; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00133; 3 dets; 14.53 Hz
+speaker_detect/output/pyavi/011/video.avi-00134; 3 dets; 13.91 Hz
+speaker_detect/output/pyavi/011/video.avi-00135; 3 dets; 14.55 Hz
+speaker_detect/output/pyavi/011/video.avi-00136; 3 dets; 14.81 Hz
+speaker_detect/output/pyavi/011/video.avi-00137; 3 dets; 14.80 Hz
+speaker_detect/output/pyavi/011/video.avi-00138; 3 dets; 14.61 Hz
+speaker_detect/output/pyavi/011/video.avi-00139; 3 dets; 13.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00140; 3 dets; 14.27 Hz
+speaker_detect/output/pyavi/011/video.avi-00141; 3 dets; 15.31 Hz
+speaker_detect/output/pyavi/011/video.avi-00142; 3 dets; 14.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00143; 3 dets; 14.97 Hz
+speaker_detect/output/pyavi/011/video.avi-00144; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00145; 3 dets; 14.93 Hz
+speaker_detect/output/pyavi/011/video.avi-00146; 3 dets; 15.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00147; 3 dets; 15.09 Hz
+speaker_detect/output/pyavi/011/video.avi-00148; 3 dets; 14.41 Hz
+speaker_detect/output/pyavi/011/video.avi-00149; 3 dets; 14.90 Hz
+speaker_detect/output/pyavi/011/video.avi-00150; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00151; 3 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00152; 3 dets; 14.77 Hz
+speaker_detect/output/pyavi/011/video.avi-00153; 3 dets; 14.85 Hz
+speaker_detect/output/pyavi/011/video.avi-00154; 3 dets; 15.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00155; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00156; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00157; 3 dets; 14.51 Hz
+speaker_detect/output/pyavi/011/video.avi-00158; 3 dets; 14.66 Hz
+speaker_detect/output/pyavi/011/video.avi-00159; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00160; 3 dets; 14.02 Hz
+speaker_detect/output/pyavi/011/video.avi-00161; 3 dets; 15.09 Hz
+speaker_detect/output/pyavi/011/video.avi-00162; 3 dets; 14.89 Hz
+speaker_detect/output/pyavi/011/video.avi-00163; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00164; 3 dets; 14.59 Hz
+speaker_detect/output/pyavi/011/video.avi-00165; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00166; 3 dets; 13.98 Hz
+speaker_detect/output/pyavi/011/video.avi-00167; 3 dets; 14.47 Hz
+speaker_detect/output/pyavi/011/video.avi-00168; 3 dets; 14.47 Hz
+speaker_detect/output/pyavi/011/video.avi-00169; 3 dets; 14.74 Hz
+speaker_detect/output/pyavi/011/video.avi-00170; 3 dets; 14.53 Hz
+speaker_detect/output/pyavi/011/video.avi-00171; 3 dets; 15.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00172; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00173; 3 dets; 15.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00174; 3 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00175; 3 dets; 15.12 Hz
+speaker_detect/output/pyavi/011/video.avi-00176; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00177; 3 dets; 14.38 Hz
+speaker_detect/output/pyavi/011/video.avi-00178; 3 dets; 14.67 Hz
+speaker_detect/output/pyavi/011/video.avi-00179; 3 dets; 14.89 Hz
+speaker_detect/output/pyavi/011/video.avi-00180; 3 dets; 14.62 Hz
+speaker_detect/output/pyavi/011/video.avi-00181; 3 dets; 14.64 Hz
+speaker_detect/output/pyavi/011/video.avi-00182; 4 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00183; 4 dets; 15.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00184; 4 dets; 15.02 Hz
+speaker_detect/output/pyavi/011/video.avi-00185; 4 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00186; 4 dets; 14.85 Hz
+speaker_detect/output/pyavi/011/video.avi-00187; 4 dets; 15.05 Hz
+speaker_detect/output/pyavi/011/video.avi-00188; 4 dets; 15.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00189; 4 dets; 14.73 Hz
+speaker_detect/output/pyavi/011/video.avi-00190; 4 dets; 15.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00191; 4 dets; 14.38 Hz
+speaker_detect/output/pyavi/011/video.avi-00192; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00193; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/011/video.avi-00194; 4 dets; 14.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00195; 4 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00196; 4 dets; 14.96 Hz
+speaker_detect/output/pyavi/011/video.avi-00197; 4 dets; 15.26 Hz
+speaker_detect/output/pyavi/011/video.avi-00198; 4 dets; 14.84 Hz
+speaker_detect/output/pyavi/011/video.avi-00199; 4 dets; 14.90 Hz
+speaker_detect/output/pyavi/011/video.avi-00200; 4 dets; 14.51 Hz
+speaker_detect/output/pyavi/011/video.avi-00201; 4 dets; 14.61 Hz
+speaker_detect/output/pyavi/011/video.avi-00202; 4 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00203; 4 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00204; 4 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00205; 4 dets; 15.10 Hz
+speaker_detect/output/pyavi/011/video.avi-00206; 4 dets; 15.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00207; 4 dets; 15.26 Hz
+speaker_detect/output/pyavi/011/video.avi-00208; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00209; 4 dets; 15.00 Hz
+speaker_detect/output/pyavi/011/video.avi-00210; 4 dets; 14.97 Hz
+speaker_detect/output/pyavi/011/video.avi-00211; 4 dets; 14.90 Hz
+speaker_detect/output/pyavi/011/video.avi-00212; 4 dets; 14.80 Hz
+speaker_detect/output/pyavi/011/video.avi-00213; 4 dets; 14.64 Hz
+speaker_detect/output/pyavi/011/video.avi-00214; 4 dets; 14.71 Hz
+speaker_detect/output/pyavi/011/video.avi-00215; 4 dets; 14.99 Hz
+speaker_detect/output/pyavi/011/video.avi-00216; 4 dets; 14.80 Hz
+speaker_detect/output/pyavi/011/video.avi-00217; 4 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00218; 4 dets; 14.86 Hz
+speaker_detect/output/pyavi/011/video.avi-00219; 3 dets; 15.12 Hz
+speaker_detect/output/pyavi/011/video.avi-00220; 3 dets; 14.91 Hz
+speaker_detect/output/pyavi/011/video.avi-00221; 3 dets; 14.16 Hz
+speaker_detect/output/pyavi/011/video.avi-00222; 3 dets; 14.92 Hz
+speaker_detect/output/pyavi/011/video.avi-00223; 3 dets; 14.27 Hz
+speaker_detect/output/pyavi/011/video.avi-00224; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00225; 3 dets; 15.25 Hz
+speaker_detect/output/pyavi/011/video.avi-00226; 3 dets; 14.31 Hz
+speaker_detect/output/pyavi/011/video.avi-00227; 3 dets; 14.95 Hz
+speaker_detect/output/pyavi/011/video.avi-00228; 3 dets; 15.16 Hz
+speaker_detect/output/pyavi/011/video.avi-00229; 3 dets; 15.12 Hz
+speaker_detect/output/pyavi/011/video.avi-00230; 3 dets; 14.81 Hz
+speaker_detect/output/pyavi/011/video.avi-00231; 3 dets; 14.87 Hz
+speaker_detect/output/pyavi/011/video.avi-00232; 3 dets; 15.20 Hz
+speaker_detect/output/pyavi/011/video.avi-00233; 3 dets; 12.93 Hz
+speaker_detect/output/pyavi/011/video.avi-00234; 3 dets; 14.60 Hz
+speaker_detect/output/pyavi/011/video.avi-00235; 3 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00236; 3 dets; 15.10 Hz
+speaker_detect/output/pyavi/011/video.avi-00237; 5 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00238; 5 dets; 14.41 Hz
+speaker_detect/output/pyavi/011/video.avi-00239; 4 dets; 14.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00240; 3 dets; 15.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00241; 3 dets; 14.64 Hz
+speaker_detect/output/pyavi/011/video.avi-00242; 3 dets; 14.50 Hz
+speaker_detect/output/pyavi/011/video.avi-00243; 3 dets; 15.17 Hz
+speaker_detect/output/pyavi/011/video.avi-00244; 3 dets; 14.82 Hz
+speaker_detect/output/pyavi/011/video.avi-00245; 3 dets; 14.45 Hz
+speaker_detect/output/pyavi/011/video.avi-00246; 4 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00247; 4 dets; 14.81 Hz
+speaker_detect/output/pyavi/011/video.avi-00248; 4 dets; 15.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00249; 4 dets; 14.77 Hz
+speaker_detect/output/pyavi/011/video.avi-00250; 4 dets; 14.62 Hz
+speaker_detect/output/pyavi/011/video.avi-00251; 4 dets; 14.48 Hz
+speaker_detect/output/pyavi/011/video.avi-00252; 4 dets; 15.34 Hz
+speaker_detect/output/pyavi/011/video.avi-00253; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00254; 4 dets; 14.66 Hz
+speaker_detect/output/pyavi/011/video.avi-00255; 4 dets; 14.76 Hz
+speaker_detect/output/pyavi/011/video.avi-00256; 4 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00257; 4 dets; 14.78 Hz
+speaker_detect/output/pyavi/011/video.avi-00258; 3 dets; 15.09 Hz
+speaker_detect/output/pyavi/011/video.avi-00259; 3 dets; 14.50 Hz
+speaker_detect/output/pyavi/011/video.avi-00260; 3 dets; 14.79 Hz
+speaker_detect/output/pyavi/011/video.avi-00261; 3 dets; 14.83 Hz
+speaker_detect/output/pyavi/011/video.avi-00262; 3 dets; 14.54 Hz
+speaker_detect/output/pyavi/011/video.avi-00263; 3 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00264; 3 dets; 15.34 Hz
+speaker_detect/output/pyavi/011/video.avi-00265; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00266; 4 dets; 14.99 Hz
+speaker_detect/output/pyavi/011/video.avi-00267; 4 dets; 15.31 Hz
+speaker_detect/output/pyavi/011/video.avi-00268; 4 dets; 14.60 Hz
+speaker_detect/output/pyavi/011/video.avi-00269; 4 dets; 14.68 Hz
+speaker_detect/output/pyavi/011/video.avi-00270; 4 dets; 15.12 Hz
+speaker_detect/output/pyavi/011/video.avi-00271; 4 dets; 14.96 Hz
+speaker_detect/output/pyavi/011/video.avi-00272; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00273; 4 dets; 15.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00274; 4 dets; 14.63 Hz
+speaker_detect/output/pyavi/011/video.avi-00275; 4 dets; 14.75 Hz
+speaker_detect/output/pyavi/011/video.avi-00276; 3 dets; 14.42 Hz
+speaker_detect/output/pyavi/011/video.avi-00277; 3 dets; 14.39 Hz
+speaker_detect/output/pyavi/011/video.avi-00278; 3 dets; 15.30 Hz
+speaker_detect/output/pyavi/011/video.avi-00279; 3 dets; 15.22 Hz
+speaker_detect/output/pyavi/011/video.avi-00280; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00281; 3 dets; 14.87 Hz
+speaker_detect/output/pyavi/011/video.avi-00282; 3 dets; 15.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00283; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00284; 3 dets; 14.54 Hz
+speaker_detect/output/pyavi/011/video.avi-00285; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00286; 3 dets; 15.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00287; 3 dets; 14.67 Hz
+speaker_detect/output/pyavi/011/video.avi-00288; 3 dets; 15.20 Hz
+speaker_detect/output/pyavi/011/video.avi-00289; 3 dets; 14.80 Hz
+speaker_detect/output/pyavi/011/video.avi-00290; 3 dets; 15.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00291; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00292; 3 dets; 14.95 Hz
+speaker_detect/output/pyavi/011/video.avi-00293; 3 dets; 14.85 Hz
+speaker_detect/output/pyavi/011/video.avi-00294; 3 dets; 15.15 Hz
+speaker_detect/output/pyavi/011/video.avi-00295; 3 dets; 14.78 Hz
+speaker_detect/output/pyavi/011/video.avi-00296; 3 dets; 14.17 Hz
+speaker_detect/output/pyavi/011/video.avi-00297; 3 dets; 14.45 Hz
+speaker_detect/output/pyavi/011/video.avi-00298; 3 dets; 14.64 Hz
+speaker_detect/output/pyavi/011/video.avi-00299; 3 dets; 14.55 Hz
+speaker_detect/output/pyavi/011/video.avi-00300; 3 dets; 14.51 Hz
+speaker_detect/output/pyavi/011/video.avi-00301; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00302; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00303; 3 dets; 15.23 Hz
+speaker_detect/output/pyavi/011/video.avi-00304; 3 dets; 13.95 Hz
+speaker_detect/output/pyavi/011/video.avi-00305; 3 dets; 14.92 Hz
+speaker_detect/output/pyavi/011/video.avi-00306; 3 dets; 15.30 Hz
+speaker_detect/output/pyavi/011/video.avi-00307; 3 dets; 15.00 Hz
+speaker_detect/output/pyavi/011/video.avi-00308; 3 dets; 15.37 Hz
+speaker_detect/output/pyavi/011/video.avi-00309; 3 dets; 14.70 Hz
+speaker_detect/output/pyavi/011/video.avi-00310; 3 dets; 14.88 Hz
+speaker_detect/output/pyavi/011/video.avi-00311; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00312; 3 dets; 15.33 Hz
+speaker_detect/output/pyavi/011/video.avi-00313; 3 dets; 14.61 Hz
+speaker_detect/output/pyavi/011/video.avi-00314; 3 dets; 14.26 Hz
+speaker_detect/output/pyavi/011/video.avi-00315; 3 dets; 14.95 Hz
+speaker_detect/output/pyavi/011/video.avi-00316; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00317; 3 dets; 14.34 Hz
+speaker_detect/output/pyavi/011/video.avi-00318; 3 dets; 14.52 Hz
+speaker_detect/output/pyavi/011/video.avi-00319; 3 dets; 15.17 Hz
+speaker_detect/output/pyavi/011/video.avi-00320; 3 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00321; 3 dets; 14.81 Hz
+speaker_detect/output/pyavi/011/video.avi-00322; 3 dets; 15.30 Hz
+speaker_detect/output/pyavi/011/video.avi-00323; 3 dets; 14.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00324; 3 dets; 13.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00325; 3 dets; 14.97 Hz
+speaker_detect/output/pyavi/011/video.avi-00326; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00327; 3 dets; 14.73 Hz
+speaker_detect/output/pyavi/011/video.avi-00328; 3 dets; 14.50 Hz
+speaker_detect/output/pyavi/011/video.avi-00329; 3 dets; 15.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00330; 3 dets; 14.84 Hz
+speaker_detect/output/pyavi/011/video.avi-00331; 3 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00332; 3 dets; 14.54 Hz
+speaker_detect/output/pyavi/011/video.avi-00333; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00334; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00335; 3 dets; 15.22 Hz
+speaker_detect/output/pyavi/011/video.avi-00336; 3 dets; 14.75 Hz
+speaker_detect/output/pyavi/011/video.avi-00337; 3 dets; 15.19 Hz
+speaker_detect/output/pyavi/011/video.avi-00338; 3 dets; 15.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00339; 3 dets; 15.16 Hz
+speaker_detect/output/pyavi/011/video.avi-00340; 3 dets; 15.05 Hz
+speaker_detect/output/pyavi/011/video.avi-00341; 3 dets; 15.16 Hz
+speaker_detect/output/pyavi/011/video.avi-00342; 3 dets; 14.92 Hz
+speaker_detect/output/pyavi/011/video.avi-00343; 3 dets; 14.93 Hz
+speaker_detect/output/pyavi/011/video.avi-00344; 3 dets; 14.59 Hz
+speaker_detect/output/pyavi/011/video.avi-00345; 3 dets; 14.65 Hz
+speaker_detect/output/pyavi/011/video.avi-00346; 3 dets; 15.02 Hz
+speaker_detect/output/pyavi/011/video.avi-00347; 3 dets; 15.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00348; 3 dets; 15.12 Hz
+speaker_detect/output/pyavi/011/video.avi-00349; 3 dets; 15.20 Hz
+speaker_detect/output/pyavi/011/video.avi-00350; 3 dets; 14.63 Hz
+speaker_detect/output/pyavi/011/video.avi-00351; 3 dets; 14.76 Hz
+speaker_detect/output/pyavi/011/video.avi-00352; 3 dets; 14.60 Hz
+speaker_detect/output/pyavi/011/video.avi-00353; 3 dets; 14.79 Hz
+speaker_detect/output/pyavi/011/video.avi-00354; 3 dets; 14.47 Hz
+speaker_detect/output/pyavi/011/video.avi-00355; 3 dets; 14.87 Hz
+speaker_detect/output/pyavi/011/video.avi-00356; 3 dets; 15.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00357; 3 dets; 14.71 Hz
+speaker_detect/output/pyavi/011/video.avi-00358; 3 dets; 15.02 Hz
+speaker_detect/output/pyavi/011/video.avi-00359; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00360; 4 dets; 15.28 Hz
+speaker_detect/output/pyavi/011/video.avi-00361; 4 dets; 15.09 Hz
+speaker_detect/output/pyavi/011/video.avi-00362; 4 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00363; 4 dets; 14.57 Hz
+speaker_detect/output/pyavi/011/video.avi-00364; 4 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00365; 4 dets; 14.67 Hz
+speaker_detect/output/pyavi/011/video.avi-00366; 4 dets; 14.77 Hz
+speaker_detect/output/pyavi/011/video.avi-00367; 3 dets; 14.70 Hz
+speaker_detect/output/pyavi/011/video.avi-00368; 3 dets; 14.62 Hz
+speaker_detect/output/pyavi/011/video.avi-00369; 3 dets; 14.65 Hz
+speaker_detect/output/pyavi/011/video.avi-00370; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00371; 3 dets; 14.54 Hz
+speaker_detect/output/pyavi/011/video.avi-00372; 3 dets; 15.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00373; 3 dets; 14.58 Hz
+speaker_detect/output/pyavi/011/video.avi-00374; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00375; 3 dets; 14.71 Hz
+speaker_detect/output/pyavi/011/video.avi-00376; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00377; 3 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00378; 3 dets; 15.39 Hz
+speaker_detect/output/pyavi/011/video.avi-00379; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00380; 3 dets; 14.89 Hz
+speaker_detect/output/pyavi/011/video.avi-00381; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00382; 3 dets; 14.64 Hz
+speaker_detect/output/pyavi/011/video.avi-00383; 3 dets; 15.05 Hz
+speaker_detect/output/pyavi/011/video.avi-00384; 3 dets; 15.30 Hz
+speaker_detect/output/pyavi/011/video.avi-00385; 3 dets; 14.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00386; 3 dets; 14.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00387; 3 dets; 14.20 Hz
+speaker_detect/output/pyavi/011/video.avi-00388; 3 dets; 14.60 Hz
+speaker_detect/output/pyavi/011/video.avi-00389; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00390; 3 dets; 15.19 Hz
+speaker_detect/output/pyavi/011/video.avi-00391; 3 dets; 14.84 Hz
+speaker_detect/output/pyavi/011/video.avi-00392; 3 dets; 14.85 Hz
+speaker_detect/output/pyavi/011/video.avi-00393; 3 dets; 14.82 Hz
+speaker_detect/output/pyavi/011/video.avi-00394; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00395; 3 dets; 14.63 Hz
+speaker_detect/output/pyavi/011/video.avi-00396; 3 dets; 15.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00397; 3 dets; 14.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00398; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00399; 3 dets; 15.10 Hz
+speaker_detect/output/pyavi/011/video.avi-00400; 3 dets; 15.09 Hz
+speaker_detect/output/pyavi/011/video.avi-00401; 3 dets; 14.74 Hz
+speaker_detect/output/pyavi/011/video.avi-00402; 3 dets; 15.23 Hz
+speaker_detect/output/pyavi/011/video.avi-00403; 3 dets; 15.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00404; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00405; 3 dets; 15.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00406; 3 dets; 14.74 Hz
+speaker_detect/output/pyavi/011/video.avi-00407; 3 dets; 14.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00408; 3 dets; 15.27 Hz
+speaker_detect/output/pyavi/011/video.avi-00409; 3 dets; 14.71 Hz
+speaker_detect/output/pyavi/011/video.avi-00410; 3 dets; 14.96 Hz
+speaker_detect/output/pyavi/011/video.avi-00411; 3 dets; 14.89 Hz
+speaker_detect/output/pyavi/011/video.avi-00412; 3 dets; 14.81 Hz
+speaker_detect/output/pyavi/011/video.avi-00413; 3 dets; 14.70 Hz
+speaker_detect/output/pyavi/011/video.avi-00414; 3 dets; 14.77 Hz
+speaker_detect/output/pyavi/011/video.avi-00415; 3 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00416; 3 dets; 14.53 Hz
+speaker_detect/output/pyavi/011/video.avi-00417; 3 dets; 15.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00418; 3 dets; 15.32 Hz
+speaker_detect/output/pyavi/011/video.avi-00419; 3 dets; 15.12 Hz
+speaker_detect/output/pyavi/011/video.avi-00420; 3 dets; 14.42 Hz
+speaker_detect/output/pyavi/011/video.avi-00421; 3 dets; 14.59 Hz
+speaker_detect/output/pyavi/011/video.avi-00422; 3 dets; 15.15 Hz
+speaker_detect/output/pyavi/011/video.avi-00423; 3 dets; 14.73 Hz
+speaker_detect/output/pyavi/011/video.avi-00424; 3 dets; 15.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00425; 3 dets; 14.66 Hz
+speaker_detect/output/pyavi/011/video.avi-00426; 3 dets; 14.62 Hz
+speaker_detect/output/pyavi/011/video.avi-00427; 3 dets; 15.17 Hz
+speaker_detect/output/pyavi/011/video.avi-00428; 3 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00429; 3 dets; 14.74 Hz
+speaker_detect/output/pyavi/011/video.avi-00430; 3 dets; 15.06 Hz
+speaker_detect/output/pyavi/011/video.avi-00431; 3 dets; 14.66 Hz
+speaker_detect/output/pyavi/011/video.avi-00432; 3 dets; 15.08 Hz
+speaker_detect/output/pyavi/011/video.avi-00433; 3 dets; 14.72 Hz
+speaker_detect/output/pyavi/011/video.avi-00434; 3 dets; 14.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00435; 3 dets; 14.71 Hz
+speaker_detect/output/pyavi/011/video.avi-00436; 3 dets; 14.69 Hz
+speaker_detect/output/pyavi/011/video.avi-00437; 3 dets; 15.22 Hz
+speaker_detect/output/pyavi/011/video.avi-00438; 3 dets; 15.19 Hz
+speaker_detect/output/pyavi/011/video.avi-00439; 3 dets; 14.93 Hz
+speaker_detect/output/pyavi/011/video.avi-00440; 3 dets; 14.50 Hz
+speaker_detect/output/pyavi/011/video.avi-00441; 3 dets; 14.71 Hz
+speaker_detect/output/pyavi/011/video.avi-00442; 3 dets; 14.70 Hz
+speaker_detect/output/pyavi/011/video.avi-00443; 3 dets; 14.70 Hz
+speaker_detect/output/pyavi/011/video.avi-00444; 3 dets; 15.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00445; 3 dets; 15.23 Hz
+speaker_detect/output/pyavi/011/video.avi-00446; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00447; 3 dets; 14.73 Hz
+speaker_detect/output/pyavi/011/video.avi-00448; 3 dets; 15.23 Hz
+speaker_detect/output/pyavi/011/video.avi-00449; 3 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00450; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00451; 3 dets; 14.90 Hz
+speaker_detect/output/pyavi/011/video.avi-00452; 3 dets; 14.66 Hz
+speaker_detect/output/pyavi/011/video.avi-00453; 3 dets; 14.30 Hz
+speaker_detect/output/pyavi/011/video.avi-00454; 3 dets; 15.23 Hz
+speaker_detect/output/pyavi/011/video.avi-00455; 3 dets; 14.79 Hz
+speaker_detect/output/pyavi/011/video.avi-00456; 3 dets; 15.25 Hz
+speaker_detect/output/pyavi/011/video.avi-00457; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00458; 3 dets; 15.11 Hz
+speaker_detect/output/pyavi/011/video.avi-00459; 3 dets; 14.73 Hz
+speaker_detect/output/pyavi/011/video.avi-00460; 3 dets; 14.97 Hz
+speaker_detect/output/pyavi/011/video.avi-00461; 3 dets; 14.49 Hz
+speaker_detect/output/pyavi/011/video.avi-00462; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00463; 3 dets; 14.62 Hz
+speaker_detect/output/pyavi/011/video.avi-00464; 3 dets; 14.66 Hz
+speaker_detect/output/pyavi/011/video.avi-00465; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00466; 3 dets; 14.98 Hz
+speaker_detect/output/pyavi/011/video.avi-00467; 3 dets; 15.03 Hz
+speaker_detect/output/pyavi/011/video.avi-00468; 3 dets; 14.91 Hz
+speaker_detect/output/pyavi/011/video.avi-00469; 3 dets; 14.55 Hz
+speaker_detect/output/pyavi/011/video.avi-00470; 3 dets; 14.65 Hz
+speaker_detect/output/pyavi/011/video.avi-00471; 3 dets; 14.79 Hz
+speaker_detect/output/pyavi/011/video.avi-00472; 3 dets; 14.67 Hz
+speaker_detect/output/pyavi/011/video.avi-00473; 3 dets; 14.40 Hz
+speaker_detect/output/pyavi/011/video.avi-00474; 3 dets; 14.55 Hz
+speaker_detect/output/pyavi/011/video.avi-00475; 3 dets; 14.52 Hz
+speaker_detect/output/pyavi/011/video.avi-00476; 3 dets; 15.02 Hz
+speaker_detect/output/pyavi/011/video.avi-00477; 3 dets; 14.89 Hz
+speaker_detect/output/pyavi/011/video.avi-00478; 3 dets; 14.74 Hz
+speaker_detect/output/pyavi/011/video.avi-00479; 3 dets; 14.88 Hz
+speaker_detect/output/pyavi/011/video.avi-00480; 3 dets; 15.10 Hz
+speaker_detect/output/pyavi/011/video.avi-00481; 3 dets; 14.63 Hz
+speaker_detect/output/pyavi/011/video.avi-00482; 3 dets; 15.13 Hz
+speaker_detect/output/pyavi/011/video.avi-00483; 3 dets; 14.84 Hz
+speaker_detect/output/pyavi/011/video.avi-00484; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00485; 3 dets; 14.52 Hz
+speaker_detect/output/pyavi/011/video.avi-00486; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00487; 3 dets; 15.15 Hz
+speaker_detect/output/pyavi/011/video.avi-00488; 3 dets; 14.62 Hz
+speaker_detect/output/pyavi/011/video.avi-00489; 3 dets; 14.68 Hz
+speaker_detect/output/pyavi/011/video.avi-00490; 3 dets; 14.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00491; 3 dets; 15.24 Hz
+speaker_detect/output/pyavi/011/video.avi-00492; 3 dets; 14.52 Hz
+speaker_detect/output/pyavi/011/video.avi-00493; 3 dets; 15.09 Hz
+speaker_detect/output/pyavi/011/video.avi-00494; 3 dets; 14.51 Hz
+speaker_detect/output/pyavi/011/video.avi-00495; 3 dets; 14.64 Hz
+speaker_detect/output/pyavi/011/video.avi-00496; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00497; 3 dets; 15.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00498; 3 dets; 15.01 Hz
+speaker_detect/output/pyavi/011/video.avi-00499; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00500; 3 dets; 13.92 Hz
+speaker_detect/output/pyavi/011/video.avi-00501; 3 dets; 15.07 Hz
+speaker_detect/output/pyavi/011/video.avi-00502; 3 dets; 14.90 Hz
+speaker_detect/output/pyavi/011/video.avi-00503; 3 dets; 14.97 Hz
+speaker_detect/output/pyavi/011/video.avi-00504; 3 dets; 15.26 Hz
+speaker_detect/output/pyavi/011/video.avi-00505; 3 dets; 14.94 Hz
+speaker_detect/output/pyavi/011/video.avi-00506; 3 dets; 15.18 Hz
+speaker_detect/output/pyavi/011/video.avi-00507; 3 dets; 14.97 Hz
+speaker_detect/output/pyavi/011/video.avi-00508; 3 dets; 14.81 Hz
+speaker_detect/output/pyavi/011/video.avi-00509; 3 dets; 14.64 Hz
+speaker_detect/output/pyavi/011/video.avi-00510; 3 dets; 15.14 Hz
+speaker_detect/output/pyavi/011/video.avi-00511; 3 dets; 14.84 Hz
+speaker_detect/output/pyavi/011/video.avi-00512; 3 dets; 14.21 Hz
+speaker_detect/output/pyavi/011/video.avi-00513; 3 dets; 15.31 Hz
+speaker_detect/output/pyavi/011/video.avi-00514; 3 dets; 14.99 Hz
+speaker_detect/output/pyavi/011/video.avi-00515; 3 dets; 14.65 Hz
+speaker_detect/output/pyavi/011/video.avi-00516; 3 dets; 15.17 Hz
+speaker_detect/output/pyavi/011/video.avi-00517; 3 dets; 14.66 Hz
+speaker_detect/output/pyavi/011/video.avi-00518; 3 dets; 15.05 Hz
+speaker_detect/output/pyavi/011/video.avi-00519; 3 dets; 14.74 Hz
+speaker_detect/output/pyavi/011/video.avi-00520; 3 dets; 14.56 Hz
+speaker_detect/output/pyavi/011/video.avi-00521; 3 dets; 15.04 Hz
+speaker_detect/output/pyavi/011/video.avi-00522; 3 dets; 15.12 Hz
+===============videoManager is: <scenedetect.video_manager.VideoManager object at 0x7f4b4b6a0f98>
+===============type of videoManager is: <class 'scenedetect.video_manager.VideoManager'>
+speaker_detect/output/pyavi/011/video.avi - scenes detected 0 from 523 frames
+Written speaker_detect/output/pycrop/011/00000
+Written speaker_detect/output/pycrop/011/00001
+Written speaker_detect/output/pycrop/011/00002
+==============================Now is working on run_syncnet_fixed.py=====================
+Model speaker_detect/data/syncnet_v2.model loaded.
+
+Extracting Features for the 1th face, this may take some seconds...
+
+Compute time 12.325 sec.
+Framewise conf: 
+[ 0.397  0.397  0.397  0.397  0.397 -3.259 -3.259 -3.259 -3.259 -3.259
+ -3.984 -3.097 -1.905 -1.137  1.405  2.608  2.608  2.608  2.608  2.608
+  0.107 -2.632 -3.637 -4.257 -4.257 -3.906 -3.709 -3.637 -2.773 -3.637
+ -3.709 -3.776 -3.776 -3.906 -3.952 -3.963 -3.963 -3.963 -3.952 -3.952
+ -3.952 -3.952 -4.874 -5.040 -3.908 -3.686 -3.686 -3.686 -3.438 -0.691
+ -0.564 -0.564 -0.564 -0.564 -0.691 -1.884 -2.267 -3.363 -4.165 -4.875
+ -5.334 -5.649 -5.764 -5.942 -5.942 -5.942 -5.764 -4.985 -4.985 -3.758
+ -3.758 -3.323 -3.323 -2.952 -2.876 -2.259 -2.259 -2.250 -2.119 -2.119
+ -2.119 -2.068 -2.119 -2.259 -2.388 -2.874 -2.874 -2.994 -2.994 -3.018
+ -3.018 -2.994 -2.874 -2.833 -1.880 -2.731 -2.731 -2.731 -2.731 -2.731
+ -2.731 -1.880 -1.677 -1.677 -1.254  0.137  2.037  2.109  2.879  3.652
+  3.652  4.078  3.652  3.652  3.652  2.214  2.214  2.214  2.214  1.939
+  1.287  1.287  1.287  1.287  1.287  1.287 -0.173 -1.016 -1.063 -1.435
+ -1.765 -4.239 -5.546 -5.546 -5.546 -5.546 -5.546 -3.743 -1.374 -1.374
+ -0.554 -0.554 -0.554 -0.554 -0.554 -0.554 -0.554 -0.554  1.086  1.219
+  1.219  1.518  1.518  1.518  1.518  0.438 -1.434 -3.425 -3.425 -3.425
+ -3.425 -3.425 -2.825 -2.012 -1.443  0.290  0.817  1.457  2.025  2.025
+  2.025  2.025  1.457 -2.054 -4.992 -4.992 -4.992 -4.992 -4.992 -3.630
+ -0.884 -0.884 -0.860 -0.860 -0.884 -0.860 -0.860 -1.153 -1.153 -1.275
+ -2.055 -2.097 -2.330 -2.330 -2.330 -2.330 -2.330 -2.121 -2.121 -2.121
+ -2.121 -2.121 -1.978 -1.978 -1.978 -1.978 -1.978 -0.395  0.293  0.293
+  0.293  0.293  0.293  0.293 -0.162 -0.162 -0.162 -0.162  0.211  0.211
+  0.211  2.131  2.131  2.131  2.131  1.637  0.502  0.502  1.637  2.711
+  1.637  0.502  0.502  0.241 -1.609 -1.667 -1.815 -1.815 -1.815 -1.815
+ -1.609 -1.235 -0.198  1.020  2.293  2.293  2.293  2.293  2.293  2.293
+  1.781  1.781  1.781  1.781  2.052  2.052  2.500  2.500  2.164  2.164
+  2.052  1.434  1.035  1.035  1.434  1.434  1.434  1.434  0.980  0.980
+  0.872  1.533  1.727  1.811  1.811  1.907  2.664  2.664  2.703  2.703
+  2.703  2.703  2.664  2.401  1.635  1.635  2.401  2.401  2.593  2.775
+  2.775  3.237  3.584  4.131  4.131  4.131  3.584  3.347  3.237  1.527
+  1.527  1.527  1.281  1.527  2.220  2.220  2.694  3.259  3.415  3.847
+  4.595  5.317  5.317  5.317  5.317  4.595  4.595  3.809  3.620  3.480
+  3.480  3.620  3.287  2.679  2.679  2.419  2.419  2.686  2.419  2.166
+  1.807  1.807 -0.127 -0.127 -0.127 -0.127 -0.127 -0.127 -0.127 -0.127
+ -0.127 -0.770 -3.946 -3.946 -3.946 -3.946 -3.946 -1.432 -0.852 -0.852
+ -0.852 -0.852 -0.852 -2.138 -3.320 -3.320 -3.320 -3.320 -3.719 -3.320
+ -2.858 -2.709 -2.709 -2.709 -2.709 -2.709 -2.215 -2.103 -2.103 -2.215
+ -2.215 -2.215 -2.103 -1.429 -1.409 -1.395 -1.250  0.916  0.955  1.346
+  1.714  1.714  1.714  2.155  1.714  1.714  1.523  1.293  1.293  1.293
+  0.971  0.917  0.917  1.293  2.248  2.259  2.301  2.259  2.259  2.259
+  2.259  1.967  1.967  1.967  1.967  1.534  1.402  1.402  1.496  1.967
+  2.004  2.004  1.496  1.000  1.216  1.216  1.216  1.216  1.216  1.000
+  1.000  1.216  1.558  1.558  2.001  2.681  2.870  3.093  3.512  4.023
+  4.023  4.023  4.023  4.023  1.729  1.729  1.622  1.622  1.622  0.851
+  0.851  0.851  0.851  0.503  0.503  0.503  0.503  0.503  1.919  1.919
+  2.051  2.525  3.233  3.572  3.572  3.572  2.853  3.570  3.572  3.572
+  3.570  3.570  3.570  3.688  4.252  4.252  4.252  3.922  3.688  3.688
+  2.416  1.935  0.934  0.934  0.934  0.934  1.827  1.827  1.379  1.379
+  1.827  1.827  1.379  1.344  0.505  0.505  0.505  1.344  1.585  1.585
+  1.783  1.783  2.114  2.114  2.114  1.804  1.804  1.764  1.626  1.626
+  1.764  1.764  1.804  3.103  3.733  3.733  3.733  3.810  3.894  3.894
+  3.894  3.991  3.991  3.810  3.810  3.810]
+AV offset: 	-12 
+Min dist: 	11.641
+Confidence: 	0.227
+
+Extracting Features for the 2th face, this may take some seconds...
+
+Compute time 11.685 sec.
+Framewise conf: 
+[ 0.875  1.442  1.442  2.046  2.451  2.451  2.046  2.046  1.442 -0.324
+ -0.765 -0.867 -0.867 -0.867 -1.822 -3.683 -3.683 -3.698 -3.698 -3.698
+ -6.523 -6.523 -6.540 -6.977 -6.977 -6.540 -6.495 -6.495 -5.382 -4.484
+ -4.007 -2.651 -2.651 -2.651 -2.651 -4.007 -4.722 -4.722 -4.722 -5.374
+ -6.796 -6.803 -7.132 -6.803 -4.722 -4.500 -3.411 -3.279  0.876  0.876
+  0.876  0.876  0.876  0.491 -1.008 -1.917 -1.917 -2.284 -3.591 -3.634
+ -4.471 -4.471 -4.471 -3.591 -0.918 -0.871 -0.420 -0.112  1.921  1.921
+  3.477  1.704  1.704  1.704  1.704  1.340 -3.264 -3.679 -3.887 -4.338
+ -4.728 -7.123 -8.159 -9.783 -9.783 -9.783 -9.783 -9.783 -3.552 -2.788
+ -2.052 -2.052 -2.052 -2.052 -3.552 -5.503 -5.503 -5.503 -5.503 -5.503
+ -4.175 -1.914 -1.914 -0.893  0.218  0.570  0.722  0.734  2.228  1.644
+  1.644  2.710  2.710  2.710  1.644  1.632  0.642  0.333  0.155 -0.008
+ -0.008 -0.384 -0.748 -0.748 -0.748 -0.860 -2.756 -3.071 -3.309 -7.799
+ -8.780 -8.780 -8.780 -8.780 -8.780 -6.883 -4.925 -4.062 -4.008 -3.774
+ -3.772 -3.398 -2.827 -2.827 -2.827 -2.827  0.099  0.599  3.240  3.240
+  3.240  3.240  3.240  1.872 -2.776 -2.776 -2.776 -2.776 -2.776 -1.176
+  0.410  1.083  1.206  1.291  3.262  3.262  3.262  3.256  1.948  3.256
+  3.256  2.239  2.239  2.239  2.470  2.470  2.239  2.239  2.171  1.866
+  1.237  0.991  0.135 -0.395 -1.035 -1.035 -1.035 -1.035 -1.035 -2.897
+ -1.035 -1.035 -1.035 -0.860 -0.860 -0.860 -0.520 -0.520 -0.520 -0.520
+ -0.520 -0.520 -0.699 -0.978 -0.978 -1.057 -1.057 -1.057 -1.529 -1.529
+ -1.529 -0.978 -2.796 -2.796 -2.796 -3.111 -3.111 -3.111 -3.111 -3.111
+ -3.111 -1.737 -1.737 -1.737 -1.737 -1.737 -1.737 -1.081 -1.081 -0.264
+ -0.264  1.550  1.744  1.744  1.744  1.744  1.744  2.636  2.796  2.636
+  2.010  1.991  2.010  2.010  2.010  2.010  2.010  2.010  2.039  2.056
+  2.132  2.132  2.914  2.914  2.914  2.987  2.987  2.987  2.914  2.176
+  1.228  0.739  0.739  0.739 -0.411 -0.918 -0.936 -0.936 -0.936 -0.918
+ -0.754 -0.754 -0.754  1.720  1.801  2.614  3.992  3.992  2.614  1.801
+  1.801  0.226  0.226  0.226  0.226  0.226  0.346  4.719  5.751  5.751
+  5.751  5.751  5.751  3.734  1.655  1.279  1.279  1.279  1.655  1.851
+  3.734  4.332  5.245  5.289  5.289  5.570  5.570  5.570  5.827  6.088
+  6.088  5.567  5.164  5.164  5.164  4.729  5.300  5.300  5.246  5.246
+  5.246  5.300  5.300  5.246  5.246  3.097  2.822  1.746  1.031  1.031
+ -0.635 -1.219 -2.697 -3.352 -4.769 -4.769 -4.769 -4.769 -5.428 -5.428
+ -5.428 -5.677 -5.677 -4.097 -4.005 -4.005 -4.005 -2.874 -2.874 -2.874
+ -2.874 -2.874 -2.874 -3.074 -3.074 -3.074 -3.074 -2.593 -2.086 -1.459
+ -1.459 -1.459 -1.459 -2.086  0.307 -1.034 -2.661 -2.709 -2.709 -2.709
+ -2.709 -2.661 -1.917 -1.917 -1.917  0.494  0.977  2.102  2.328  3.660
+  4.015  4.015  4.504  5.229  4.504  4.504  4.015  3.835  2.365  2.365
+  2.365  2.365  2.365  3.869  4.614  4.671  4.992  4.992  5.362  6.238
+  6.238  6.317  6.317  6.238  4.916  4.127  4.127  3.658  2.707  2.426
+  0.528  0.025  0.025  0.528  0.563  0.563  0.563  0.563  0.904  0.940
+  3.170  3.965  5.062  5.707  6.011  6.115  6.115  6.115  6.115  6.011
+  5.905  4.976  4.178  4.178  4.178  4.656  4.656  4.656  4.042  4.042
+  4.042  3.660  3.660  3.660  3.660  5.010  5.010  5.010  5.010  4.853
+  4.853  4.784  2.704 -0.686 -0.686 -0.686 -0.686 -0.686  0.319  1.405
+  1.405  1.405  1.405  1.405  2.043  2.043  2.043  1.405  0.529  0.529
+  0.811  2.043  2.043  2.158  3.063  2.357  3.800  4.453  5.185  5.185
+  5.185  3.800  2.678  2.466  2.678  2.678  2.678  2.466  2.420  2.420
+  2.405  2.405  1.945  1.945  1.945  0.642  0.642  0.642  2.334  2.833
+  4.124  4.537  5.373  5.373  5.373  5.373  5.118  4.124  4.121  4.121
+  3.766  3.396  3.391  3.391  3.391  1.112]
+AV offset: 	-14 
+Min dist: 	10.473
+Confidence: 	0.400
+
+Extracting Features for the 3th face, this may take some seconds...
+
+Compute time 11.771 sec.
+Framewise conf: 
+[-1.682 -1.682 -1.682 -1.682 -1.682 -1.682 -1.537 -1.103 -0.471 -0.471
+ -1.103 -1.537 -1.979 -3.395 -3.524 -3.697 -5.310 -6.422 -6.422 -6.112
+ -6.112 -6.112 -6.112 -6.112 -5.688 -5.550 -5.181 -5.181 -4.538 -3.976
+ -3.633 -2.963 -0.107  3.115  3.115  3.115  3.115  3.115 -0.068 -0.304
+ -0.304 -0.304 -0.304 -0.304 -0.192  0.072  0.189  1.225  5.217  5.217
+  5.217  2.735  2.735  2.735  2.690  2.305 -3.094 -3.361 -3.692 -4.250
+ -6.166 -6.566 -6.566 -6.566 -6.566 -6.566 -5.345 -4.315 -4.018 -3.279
+ -3.044 -3.044 -3.044 -3.044 -3.044 -2.376 -0.424 -3.044 -3.044 -1.949
+ -1.949 -1.949 -1.949 -1.949 -1.949 -2.179 -2.179 -2.999 -3.907 -2.999
+ -2.179 -0.841 -0.841  1.140  1.984  1.984  2.224  2.224  2.224  2.224
+  1.492  1.492  1.492  1.075  1.075  1.075  1.407  1.492  2.433  2.989
+  2.670  2.670  2.954  2.989  2.989  2.954  2.954  2.954  2.670  1.748
+  0.404  0.199  0.049  0.049  0.023 -0.334 -0.451 -0.451 -0.820 -0.820
+ -0.820 -1.487 -1.619 -1.619 -1.619 -1.619 -1.487 -0.988 -0.988 -0.988
+ -0.842 -0.842 -0.842 -0.842 -0.842 -2.667 -2.672 -2.672 -2.672 -2.672
+ -2.672  0.611  4.591  4.619  6.512  6.512  6.512  6.512  6.319  5.426
+  4.591  4.307  4.303  4.055  3.841  3.841  3.194  1.205 -0.057 -3.061
+ -4.281 -4.281 -4.281 -4.281 -3.061 -3.061 -3.061 -0.468  0.635  1.739
+  1.807  1.739  1.739  2.117  2.117  2.117  2.117 -0.662 -1.445 -1.445
+ -0.662 -0.662 -0.662 -0.300  1.291  1.291  1.291  1.291  1.291 -1.666
+ -1.666 -1.666 -1.666 -1.666 -1.337 -0.394  0.739  1.209  1.209  1.209
+  1.209  1.209  0.410 -0.772 -1.471 -1.748 -1.748 -1.956 -2.626 -3.207
+ -3.207 -2.626 -2.151 -1.748 -1.012 -0.419  2.609  2.609  2.609  2.609
+  2.609  1.859  1.702  1.259 -0.274 -0.274 -0.274  1.259  1.259  0.905
+  0.871  0.905  1.493  1.493  2.778  2.778  0.905  0.871  0.871  1.184
+  1.184  1.184  1.184 -0.958 -0.958  0.209  0.209  0.784  0.784  0.784
+  0.209  0.209  0.209  0.784  0.784  0.784  1.045  1.045  1.178  1.273
+  1.327  1.380  1.380  2.320  3.114  4.141  4.769  4.769  4.769  4.141
+  2.320  0.492  0.492  0.492  0.492  0.243  0.243  0.243  0.243  0.243
+ -1.731 -1.731 -1.731 -1.731 -1.731  3.212  3.212  3.212  3.212  3.212
+  3.143  0.088 -1.420 -1.793 -1.793 -1.793 -1.875 -1.875 -2.450 -2.450
+ -2.450 -2.450 -2.450 -2.497 -2.497 -2.641 -3.441 -3.827 -3.827 -3.827
+ -2.641 -2.641 -3.731 -3.731 -2.377 -2.377 -2.377 -2.377 -3.352 -3.630
+ -3.630 -3.630 -4.537 -5.665 -5.665 -5.665 -5.665 -4.537 -5.781 -5.225
+ -4.203 -4.034 -3.131 -3.131 -3.131 -2.798  1.473  1.473  1.473  1.473
+  1.473 -0.300 -3.499 -3.499 -4.183 -4.463 -5.346 -4.463 -4.183 -4.183
+ -4.183 -4.183 -4.424 -4.424 -3.290 -3.290 -4.407 -4.424 -4.424 -4.407
+ -2.723 -2.213 -2.213  0.780  2.297  2.349  2.678  3.585  3.585  3.314
+  3.314  3.585  3.585  3.314  3.314  3.168  2.786  0.865  0.373  0.250
+  0.250  0.250  0.250  0.250  4.896  7.435  7.435  7.435  7.435  7.435
+  7.250  7.142  7.092  6.081  5.807  5.797  5.714  5.714  5.714  5.709
+  5.709  5.709  6.068  6.138  6.339  6.522  8.038  8.145  8.145  8.145
+  8.145  8.038  7.129  6.368  2.210  2.210  2.210  2.210  2.210  2.210
+  2.210  2.210  2.358  2.397  2.448  2.448  2.448  4.067  4.903  5.389
+  5.394  5.734  7.056  6.694  6.694  7.056  7.056  7.309  7.056  6.694
+  5.015  4.962  4.912  4.912  3.192  0.971  0.764  0.764  0.764  1.573
+  3.683  3.683  3.683  3.956  6.919  6.919  6.919  6.919  6.919  4.379
+  4.329  3.167  1.866  1.866  1.866  1.866  4.329  4.329  5.250  5.300
+  5.300  5.300  5.250  5.250  5.390  3.511  3.437  2.963  2.963  2.963
+  2.963  3.079  3.079  3.079  3.647  4.108  4.214  4.214  5.225  5.225
+  5.225  5.241  4.935  4.770  4.770  4.935  4.935  4.935  5.019  5.520
+  5.693  5.693  5.693  5.693  5.019  4.642]
+AV offset: 	-14 
+Min dist: 	11.323
+Confidence: 	0.621
+==============================Now is working on get_speaker_score.py=====================
+
+Processing Face number 1 of 3...
+
+Processing Face number 2 of 3...
+
+Processing Face number 3 of 3...
+Processing frame 1 of 516
+Processing frame 2 of 516
+Processing frame 3 of 516
+Processing frame 4 of 516
+Processing frame 5 of 516
+Processing frame 6 of 516
+Processing frame 7 of 516
+Processing frame 8 of 516
+Processing frame 9 of 516
+Processing frame 10 of 516
+Processing frame 11 of 516
+Processing frame 12 of 516
+Processing frame 13 of 516
+Processing frame 14 of 516
+Processing frame 15 of 516
+Processing frame 16 of 516
+Processing frame 17 of 516
+Processing frame 18 of 516
+Processing frame 19 of 516
+Processing frame 20 of 516
+Processing frame 21 of 516
+Processing frame 22 of 516
+Processing frame 23 of 516
+Processing frame 24 of 516
+Processing frame 25 of 516
+Processing frame 26 of 516
+Processing frame 27 of 516
+Processing frame 28 of 516
+Processing frame 29 of 516
+Processing frame 30 of 516
+Processing frame 31 of 516
+Processing frame 32 of 516
+Processing frame 33 of 516
+Processing frame 34 of 516
+Processing frame 35 of 516
+Processing frame 36 of 516
+Processing frame 37 of 516
+Processing frame 38 of 516
+Processing frame 39 of 516
+Processing frame 40 of 516
+Processing frame 41 of 516
+Processing frame 42 of 516
+Processing frame 43 of 516
+Processing frame 44 of 516
+Processing frame 45 of 516
+Processing frame 46 of 516
+Processing frame 47 of 516
+Processing frame 48 of 516
+Processing frame 49 of 516
+Processing frame 50 of 516
+Processing frame 51 of 516
+Processing frame 52 of 516
+Processing frame 53 of 516
+Processing frame 54 of 516
+Processing frame 55 of 516
+Processing frame 56 of 516
+Processing frame 57 of 516
+Processing frame 58 of 516
+Processing frame 59 of 516
+Processing frame 60 of 516
+Processing frame 61 of 516
+Processing frame 62 of 516
+Processing frame 63 of 516
+Processing frame 64 of 516
+Processing frame 65 of 516
+Processing frame 66 of 516
+Processing frame 67 of 516
+Processing frame 68 of 516
+Processing frame 69 of 516
+Processing frame 70 of 516
+Processing frame 71 of 516
+Processing frame 72 of 516
+Processing frame 73 of 516
+Processing frame 74 of 516
+Processing frame 75 of 516
+Processing frame 76 of 516
+Processing frame 77 of 516
+Processing frame 78 of 516
+Processing frame 79 of 516
+Processing frame 80 of 516
+Processing frame 81 of 516
+Processing frame 82 of 516
+Processing frame 83 of 516
+Processing frame 84 of 516
+Processing frame 85 of 516
+Processing frame 86 of 516
+Processing frame 87 of 516
+Processing frame 88 of 516
+Processing frame 89 of 516
+Processing frame 90 of 516
+Processing frame 91 of 516
+Processing frame 92 of 516
+Processing frame 93 of 516
+Processing frame 94 of 516
+Processing frame 95 of 516
+Processing frame 96 of 516
+Processing frame 97 of 516
+Processing frame 98 of 516
+Processing frame 99 of 516
+Processing frame 100 of 516
+Processing frame 101 of 516
+Processing frame 102 of 516
+Processing frame 103 of 516
+Processing frame 104 of 516
+Processing frame 105 of 516
+Processing frame 106 of 516
+Processing frame 107 of 516
+Processing frame 108 of 516
+Processing frame 109 of 516
+Processing frame 110 of 516
+Processing frame 111 of 516
+Processing frame 112 of 516
+Processing frame 113 of 516
+Processing frame 114 of 516
+Processing frame 115 of 516
+Processing frame 116 of 516
+Processing frame 117 of 516
+Processing frame 118 of 516
+Processing frame 119 of 516
+Processing frame 120 of 516
+Processing frame 121 of 516
+Processing frame 122 of 516
+Processing frame 123 of 516
+Processing frame 124 of 516
+Processing frame 125 of 516
+Processing frame 126 of 516
+Processing frame 127 of 516
+Processing frame 128 of 516
+Processing frame 129 of 516
+Processing frame 130 of 516
+Processing frame 131 of 516
+Processing frame 132 of 516
+Processing frame 133 of 516
+Processing frame 134 of 516
+Processing frame 135 of 516
+Processing frame 136 of 516
+Processing frame 137 of 516
+Processing frame 138 of 516
+Processing frame 139 of 516
+Processing frame 140 of 516
+Processing frame 141 of 516
+Processing frame 142 of 516
+Processing frame 143 of 516
+Processing frame 144 of 516
+Processing frame 145 of 516
+Processing frame 146 of 516
+Processing frame 147 of 516
+Processing frame 148 of 516
+Processing frame 149 of 516
+Processing frame 150 of 516
+Processing frame 151 of 516
+Processing frame 152 of 516
+Processing frame 153 of 516
+Processing frame 154 of 516
+Processing frame 155 of 516
+Processing frame 156 of 516
+Processing frame 157 of 516
+Processing frame 158 of 516
+Processing frame 159 of 516
+Processing frame 160 of 516
+Processing frame 161 of 516
+Processing frame 162 of 516
+Processing frame 163 of 516
+Processing frame 164 of 516
+Processing frame 165 of 516
+Processing frame 166 of 516
+Processing frame 167 of 516
+Processing frame 168 of 516
+Processing frame 169 of 516
+Processing frame 170 of 516
+Processing frame 171 of 516
+Processing frame 172 of 516
+Processing frame 173 of 516
+Processing frame 174 of 516
+Processing frame 175 of 516
+Processing frame 176 of 516
+Processing frame 177 of 516
+Processing frame 178 of 516
+Processing frame 179 of 516
+Processing frame 180 of 516
+Processing frame 181 of 516
+Processing frame 182 of 516
+Processing frame 183 of 516
+Processing frame 184 of 516
+Processing frame 185 of 516
+Processing frame 186 of 516
+Processing frame 187 of 516
+Processing frame 188 of 516
+Processing frame 189 of 516
+Processing frame 190 of 516
+Processing frame 191 of 516
+Processing frame 192 of 516
+Processing frame 193 of 516
+Processing frame 194 of 516
+Processing frame 195 of 516
+Processing frame 196 of 516
+Processing frame 197 of 516
+Processing frame 198 of 516
+Processing frame 199 of 516
+Processing frame 200 of 516
+Processing frame 201 of 516
+Processing frame 202 of 516
+Processing frame 203 of 516
+Processing frame 204 of 516
+Processing frame 205 of 516
+Processing frame 206 of 516
+Processing frame 207 of 516
+Processing frame 208 of 516
+Processing frame 209 of 516
+Processing frame 210 of 516
+Processing frame 211 of 516
+Processing frame 212 of 516
+Processing frame 213 of 516
+Processing frame 214 of 516
+Processing frame 215 of 516
+Processing frame 216 of 516
+Processing frame 217 of 516
+Processing frame 218 of 516
+Processing frame 219 of 516
+Processing frame 220 of 516
+Processing frame 221 of 516
+Processing frame 222 of 516
+Processing frame 223 of 516
+Processing frame 224 of 516
+Processing frame 225 of 516
+Processing frame 226 of 516
+Processing frame 227 of 516
+Processing frame 228 of 516
+Processing frame 229 of 516
+Processing frame 230 of 516
+Processing frame 231 of 516
+Processing frame 232 of 516
+Processing frame 233 of 516
+Processing frame 234 of 516
+Processing frame 235 of 516
+Processing frame 236 of 516
+Processing frame 237 of 516
+Processing frame 238 of 516
+Processing frame 239 of 516
+Processing frame 240 of 516
+Processing frame 241 of 516
+Processing frame 242 of 516
+Processing frame 243 of 516
+Processing frame 244 of 516
+Processing frame 245 of 516
+Processing frame 246 of 516
+Processing frame 247 of 516
+Processing frame 248 of 516
+Processing frame 249 of 516
+Processing frame 250 of 516
+Processing frame 251 of 516
+Processing frame 252 of 516
+Processing frame 253 of 516
+Processing frame 254 of 516
+Processing frame 255 of 516
+Processing frame 256 of 516
+Processing frame 257 of 516
+Processing frame 258 of 516
+Processing frame 259 of 516
+Processing frame 260 of 516
+Processing frame 261 of 516
+Processing frame 262 of 516
+Processing frame 263 of 516
+Processing frame 264 of 516
+Processing frame 265 of 516
+Processing frame 266 of 516
+Processing frame 267 of 516
+Processing frame 268 of 516
+Processing frame 269 of 516
+Processing frame 270 of 516
+Processing frame 271 of 516
+Processing frame 272 of 516
+Processing frame 273 of 516
+Processing frame 274 of 516
+Processing frame 275 of 516
+Processing frame 276 of 516
+Processing frame 277 of 516
+Processing frame 278 of 516
+Processing frame 279 of 516
+Processing frame 280 of 516
+Processing frame 281 of 516
+Processing frame 282 of 516
+Processing frame 283 of 516
+Processing frame 284 of 516
+Processing frame 285 of 516
+Processing frame 286 of 516
+Processing frame 287 of 516
+Processing frame 288 of 516
+Processing frame 289 of 516
+Processing frame 290 of 516
+Processing frame 291 of 516
+Processing frame 292 of 516
+Processing frame 293 of 516
+Processing frame 294 of 516
+Processing frame 295 of 516
+Processing frame 296 of 516
+Processing frame 297 of 516
+Processing frame 298 of 516
+Processing frame 299 of 516
+Processing frame 300 of 516
+Processing frame 301 of 516
+Processing frame 302 of 516
+Processing frame 303 of 516
+Processing frame 304 of 516
+Processing frame 305 of 516
+Processing frame 306 of 516
+Processing frame 307 of 516
+Processing frame 308 of 516
+Processing frame 309 of 516
+Processing frame 310 of 516
+Processing frame 311 of 516
+Processing frame 312 of 516
+Processing frame 313 of 516
+Processing frame 314 of 516
+Processing frame 315 of 516
+Processing frame 316 of 516
+Processing frame 317 of 516
+Processing frame 318 of 516
+Processing frame 319 of 516
+Processing frame 320 of 516
+Processing frame 321 of 516
+Processing frame 322 of 516
+Processing frame 323 of 516
+Processing frame 324 of 516
+Processing frame 325 of 516
+Processing frame 326 of 516
+Processing frame 327 of 516
+Processing frame 328 of 516
+Processing frame 329 of 516
+Processing frame 330 of 516
+Processing frame 331 of 516
+Processing frame 332 of 516
+Processing frame 333 of 516
+Processing frame 334 of 516
+Processing frame 335 of 516
+Processing frame 336 of 516
+Processing frame 337 of 516
+Processing frame 338 of 516
+Processing frame 339 of 516
+Processing frame 340 of 516
+Processing frame 341 of 516
+Processing frame 342 of 516
+Processing frame 343 of 516
+Processing frame 344 of 516
+Processing frame 345 of 516
+Processing frame 346 of 516
+Processing frame 347 of 516
+Processing frame 348 of 516
+Processing frame 349 of 516
+Processing frame 350 of 516
+Processing frame 351 of 516
+Processing frame 352 of 516
+Processing frame 353 of 516
+Processing frame 354 of 516
+Processing frame 355 of 516
+Processing frame 356 of 516
+Processing frame 357 of 516
+Processing frame 358 of 516
+Processing frame 359 of 516
+Processing frame 360 of 516
+Processing frame 361 of 516
+Processing frame 362 of 516
+Processing frame 363 of 516
+Processing frame 364 of 516
+Processing frame 365 of 516
+Processing frame 366 of 516
+Processing frame 367 of 516
+Processing frame 368 of 516
+Processing frame 369 of 516
+Processing frame 370 of 516
+Processing frame 371 of 516
+Processing frame 372 of 516
+Processing frame 373 of 516
+Processing frame 374 of 516
+Processing frame 375 of 516
+Processing frame 376 of 516
+Processing frame 377 of 516
+Processing frame 378 of 516
+Processing frame 379 of 516
+Processing frame 380 of 516
+Processing frame 381 of 516
+Processing frame 382 of 516
+Processing frame 383 of 516
+Processing frame 384 of 516
+Processing frame 385 of 516
+Processing frame 386 of 516
+Processing frame 387 of 516
+Processing frame 388 of 516
+Processing frame 389 of 516
+Processing frame 390 of 516
+Processing frame 391 of 516
+Processing frame 392 of 516
+Processing frame 393 of 516
+Processing frame 394 of 516
+Processing frame 395 of 516
+Processing frame 396 of 516
+Processing frame 397 of 516
+Processing frame 398 of 516
+Processing frame 399 of 516
+Processing frame 400 of 516
+Processing frame 401 of 516
+Processing frame 402 of 516
+Processing frame 403 of 516
+Processing frame 404 of 516
+Processing frame 405 of 516
+Processing frame 406 of 516
+Processing frame 407 of 516
+Processing frame 408 of 516
+Processing frame 409 of 516
+Processing frame 410 of 516
+Processing frame 411 of 516
+Processing frame 412 of 516
+Processing frame 413 of 516
+Processing frame 414 of 516
+Processing frame 415 of 516
+Processing frame 416 of 516
+Processing frame 417 of 516
+Processing frame 418 of 516
+Processing frame 419 of 516
+Processing frame 420 of 516
+Processing frame 421 of 516
+Processing frame 422 of 516
+Processing frame 423 of 516
+Processing frame 424 of 516
+Processing frame 425 of 516
+Processing frame 426 of 516
+Processing frame 427 of 516
+Processing frame 428 of 516
+Processing frame 429 of 516
+Processing frame 430 of 516
+Processing frame 431 of 516
+Processing frame 432 of 516
+Processing frame 433 of 516
+Processing frame 434 of 516
+Processing frame 435 of 516
+Processing frame 436 of 516
+Processing frame 437 of 516
+Processing frame 438 of 516
+Processing frame 439 of 516
+Processing frame 440 of 516
+Processing frame 441 of 516
+Processing frame 442 of 516
+Processing frame 443 of 516
+Processing frame 444 of 516
+Processing frame 445 of 516
+Processing frame 446 of 516
+Processing frame 447 of 516
+Processing frame 448 of 516
+Processing frame 449 of 516
+Processing frame 450 of 516
+Processing frame 451 of 516
+Processing frame 452 of 516
+Processing frame 453 of 516
+Processing frame 454 of 516
+Processing frame 455 of 516
+Processing frame 456 of 516
+Processing frame 457 of 516
+Processing frame 458 of 516
+Processing frame 459 of 516
+Processing frame 460 of 516
+Processing frame 461 of 516
+Processing frame 462 of 516
+Processing frame 463 of 516
+Processing frame 464 of 516
+Processing frame 465 of 516
+Processing frame 466 of 516
+Processing frame 467 of 516
+Processing frame 468 of 516
+Processing frame 469 of 516
+Processing frame 470 of 516
+Processing frame 471 of 516
+Processing frame 472 of 516
+Processing frame 473 of 516
+Processing frame 474 of 516
+Processing frame 475 of 516
+Processing frame 476 of 516
+Processing frame 477 of 516
+Processing frame 478 of 516
+Processing frame 479 of 516
+Processing frame 480 of 516
+Processing frame 481 of 516
+Processing frame 482 of 516
+Processing frame 483 of 516
+Processing frame 484 of 516
+Processing frame 485 of 516
+Processing frame 486 of 516
+Processing frame 487 of 516
+Processing frame 488 of 516
+Processing frame 489 of 516
+Processing frame 490 of 516
+Processing frame 491 of 516
+Processing frame 492 of 516
+Processing frame 493 of 516
+Processing frame 494 of 516
+Processing frame 495 of 516
+Processing frame 496 of 516
+Processing frame 497 of 516
+Processing frame 498 of 516
+Processing frame 499 of 516
+Processing frame 500 of 516
+Processing frame 501 of 516
+Processing frame 502 of 516
+Processing frame 503 of 516
+Processing frame 504 of 516
+Processing frame 505 of 516
+Processing frame 506 of 516
+Processing frame 507 of 516
+Processing frame 508 of 516
+Processing frame 509 of 516
+Processing frame 510 of 516
+Processing frame 511 of 516
+Processing frame 512 of 516
+Processing frame 513 of 516
+Processing frame 514 of 516
+Processing frame 515 of 516
+Processing frame 516 of 516
+(516, 720, 1280, 3)
+(523, 720, 1280, 3)
