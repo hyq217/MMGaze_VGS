@@ -23,10 +23,14 @@ cd ./utils/Speaker_detector/
 
 sh build_face_map_Generate_FaceMap.sh ../../data/Raw_Video/videos/012.mp4  012  ../../data/output/speaker_detect/
 
-# ### Step3: Go to folder './utils/Mask_RCNN/'. Train VGS model to detect gaze points. Here we use pre_trained checkpoint directly, skip this step.
+# Fusion speaker information on raw frames, code can be find in speaker_feature.py, here we directly use combined files for demo.
+# Demo files for demo can be found in ./output/fusion_speaker/012/
+
+### Step3: Go to folder './utils/Mask_RCNN/'. Train VGS model to detect gaze points. Here we use pre_trained checkpoint directly, skip this step.
 echo '=======================================Train VGS model to detect gaze points. Here we use pre_trained checkpoint directly, skip this step===================================='
 
-# ### Step4: Go to folder './utils/Mask_RCNN/'. Detect gaze points from Mask_RCNN
+### Step4: Go to folder './utils/Mask_RCNN/'. Detect gaze points from Mask_RCNN
+# Input files for demo can be found in ./output/fusion_speaker/012/
 
 cd ../Mask_RCNN/
 #(1) Install environment yaml file from google drive: https://drive.google.com/drive/folders/1gcACzyd_8tXTU4HsVNFLyC0_ZBCd7iwm?usp=sharing
@@ -34,7 +38,7 @@ cd ../Mask_RCNN/
 conda activate yuqi_maskrcnn
 cd ./tools/
 
-python test_yuqi.py
+python test_yuqi_demo.py
 
 
 ### Step5: Go to home folder. Use MLP [checkpoint]() to detect best gaze point.
