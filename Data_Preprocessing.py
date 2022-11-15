@@ -13,6 +13,8 @@ import argparse, os
 parser = argparse.ArgumentParser()
 parser.add_argument('--videoPath', type=str, help='model weights', default='./data/Raw_Video/videos/012.mp4')
 parser.add_argument('--imgPath', type=str, help='video or image', default='./output/image_frame/012/')
+parser.add_argument('--head_num', type=str, help='head number in the video', default=1)
+
 args = parser.parse_args()
 
 
@@ -33,7 +35,7 @@ def Video2Pic():
 
         suc, frame = cap.read()
         
-        frame_name = args.imgPath + str(frame_count).zfill(8) + ".jpg"
+        frame_name = args.imgPath + (args.videoPath)[-7:-4] + args.head_num + str(frame_count).zfill(3) + ".jpg"
         print('Save image into path:',frame_name)
         # cv2.imwrite(imgPath + "%d.jpg" %frame_count, frame)
         if(os.path.exists(args.imgPath) == False):

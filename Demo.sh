@@ -48,7 +48,7 @@ python MLP_Best_Gaze.py
 
 # In this step you will generate the final csv file [here](https://drive.google.com/file/d/1JBDwW9fbwGz-gl2hzAI9voNz3PR9Rf0T/view?usp=sharing).
 
+# If you want to generate gif file to visualise the video directly, please follow the step in: demo_012.ipynb
 
 # ## Contact
 # If you have any questions, please email Yuqi Hou at houyuqi21701@gmail.com
-
