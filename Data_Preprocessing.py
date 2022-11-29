@@ -34,6 +34,8 @@ def Video2Pic():
     while suc:
 
         suc, frame = cap.read()
+
+        print('------------',args.imgPath ,args.videoPath,args.head_num,frame_count)
         
         frame_name = args.imgPath + (args.videoPath)[-7:-4] + args.head_num + str(frame_count).zfill(3) + ".jpg"
         print('Save image into path:',frame_name)

@@ -6,22 +6,22 @@
 
 echo '=======================================Now is splitting video into frames===================================='
 
-python Data_Preprocessing.py --videoPath ./data/Raw_Video/videos/012.mp4  --imgPath ./output/image_frame/012
+python Data_Preprocessing.py --videoPath ./data/Raw_Video/videos/011.mp4  --imgPath ./output/image_frame/011/  --head_num 1
 
 
 # ### Step2: Go to folder './utils/Speaker_detector', By fusion audio&video to detect speakers, here we use pre-trained model for speaker dectection
 #(1) Install environment yaml file from google drive: https://drive.google.com/file/d/1bVlD1bTi1-auGVF1qTJB3iXrSOxudyN3/view?usp=sharing
 #(2) create conda environment, you should also install tensorflow mannually:
 
-conda env create -f ./configs/Speaker_Detector/Speaker_Detection.yaml
-conda activate yuqi_summer3
+# conda env create -f ./configs/Speaker_Detector/Speaker_Detection.yaml
+# conda activate yuqi_summer3
 
 # You will still need to mannually install some libraries and create some folders, no worries, just follow the warning is ok
 
 echo '=======================================Now is detecting speakers by audio&video===================================='
 cd ./utils/Speaker_detector/
 
-sh build_face_map_Generate_FaceMap.sh ../../data/Raw_Video/videos/012.mp4  012  ../../data/output/speaker_detect/
+sh build_face_map_Generate_FaceMap.sh ../../data/Raw_Video/videos/011.mp4  011  ../../data/output/speaker_detect/
 
 # Fusion speaker information on raw frames, code can be find in speaker_feature.py, here we directly use combined files for demo.
 # Demo files for demo can be found in ./output/fusion_speaker/012/

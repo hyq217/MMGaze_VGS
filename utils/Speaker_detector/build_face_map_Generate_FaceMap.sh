@@ -35,8 +35,8 @@ face_maps_dir="speaker_detect/data/face_maps/${ref_name}/"
 
 STS_dir="speaker_detect/data/ST_maps/${ref_name}/"
 
-echo "==============================Now is working on download_model.sh====================="
-sh speaker_detect/download_model.sh
+# echo "==============================Now is working on download_model.sh====================="
+# sh speaker_detect/download_model.sh
 
 echo "==============================Now is working on run_pipeline_fixed.py====================="
 python speaker_detect/run_pipeline_fixed.py --videofile $videofile --reference $ref_name --data_dir $out_dir
