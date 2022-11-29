@@ -47,6 +47,8 @@ for ii, track in enumerate(tracks):
     confs.append(conf)
     V.append(im_feat)
     A.append(cc_feat)
+
+    print('=============',im_feat,cc_feat)
       
 # ==================== PRINT RESULTS TO FILE ====================
 
@@ -60,3 +62,6 @@ with open(os.path.join(opt.work_dir,opt.reference,'activesd.pckl'), 'wb') as fil
 
 np.save(os.path.join(opt.work_dir,opt.reference,'V_feats'), V)
 np.save(os.path.join(opt.work_dir,opt.reference,'A_feats'), A)
+
+print('----------',os.path.join(opt.work_dir,opt.reference,'V_feats'))
+print('----------',os.path.join(opt.work_dir,opt.reference,'A_feats'))

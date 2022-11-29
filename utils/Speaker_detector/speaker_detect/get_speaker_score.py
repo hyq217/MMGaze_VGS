@@ -122,3 +122,4 @@ if display_fig:
 	plt.show()
 
 np.save(opt.out_scores + 'whospeaks.npy', whospeaks)
+print('-------------',opt.out_scores + 'whospeaks.npy')

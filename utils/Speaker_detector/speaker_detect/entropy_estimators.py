@@ -226,7 +226,9 @@ def add_noise(x, intens=1e-10):
 
 
 def query_neighbors(tree, x, k):
-    return tree.query(x, k=k + 1, p=float('inf'), n_jobs=-1)[0][:, k]
+    # return tree.query(x, k=k + 1, p=float('inf'), n_jobs=-1)[0][:, k]
+    return tree.query(x, k=k + 1, p=float('inf'), workers=-1)[0][:, k]
+
 
 
 def avgdigamma(points, dvec):
