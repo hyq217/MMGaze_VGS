@@ -1,4 +1,4 @@
-# Gaze Following in video with Speeches
+# Gaze Following in Video with Speeches
 
 
 ## Overview
