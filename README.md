@@ -109,7 +109,7 @@ Run:
 
 (1) If you have more than 1 GPU:
 ```
-./tools/dist_train.sh yuqi_x101_32x4d_fpn_1x_HS/mask_rcnn_x101_32x4d_fpn_1x_coco.py  2
+Python  ./tools/dist_train.sh yuqi_x101_32x4d_fpn_1x_HS/mask_rcnn_x101_32x4d_fpn_1x_coco.py  2
 ```
 
 (2) If you only have one GPU:
