@@ -103,7 +103,7 @@ python Data_Preprocessing.py --videoPath ./data/Raw_Video/videos/012.mp4  --imgP
 sh build_face_map_Generate_FaceMap.sh ../../data/Raw_Video/videos/002.mp4  002 ../../data/output/speaker_detect/
 ```
 
-### Step3: Go to folder './utils/Mask_RCNN/'. Train VGS model to detect gaze points. If you use pre_trained checkpoint[here](https://drive.google.com/drive/folders/1gcACzyd_8tXTU4HsVNFLyC0_ZBCd7iwm?usp=sharing) directly, please skip this step.
+### Step3: Go to folder './utils/Mask_RCNN/'. Train VGS model to detect gaze points. If you use pre_trained checkpoint ([here](https://drive.google.com/drive/folders/1gcACzyd_8tXTU4HsVNFLyC0_ZBCd7iwm?usp=sharing) )directly, please skip this step.
 
 Run:
 
