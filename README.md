@@ -2,7 +2,7 @@
 
 
 ## Overview
-<img src="data/0124.gif" width="210" height="118"><img src="data/0121.gif" width="210" height="118"><img src="data/0123.gif" width="210" height="118"><img src="data/0122.gif" width="210" height="128">
+<img src="data/0124.gif" width="200" height="108"><img src="data/0121.gif" width="200" height="108"><img src="data/0123.gif" width="200" height="108"><img src="data/0122.gif" width="200" height="108">
 
 
 
