@@ -4,6 +4,8 @@
 ## Overview
 <img src="data/0124.gif" width="180" height="105"><img src="data/0121.gif" width="180" height="105"><img src="data/0123.gif" width="180" height="105"><img src="data/0122.gif" width="180" height="105">
 
+<img src="data/0124.gif" width="255" height="148"><img src="data/0121.gif" width="255" height="148"><img src="data/0123.gif" width="255" height="148"><img src="data/0122.gif" width="255" height="148">
+
 
 
 The project proposes a new approach that considers gaze following with speeches, along with a new dataset (VideoGazeSpeech, i.e., VGS). The task of gaze following is to determine the gaze target of a person in an image by a given image or video frame. This approach integrates the correlation between auditory and visual cues and their joint contribution to the gaze following task for the first time and proposes a new multimodal ingenious architecture. Our project firstly uses SyncNet, a dual-stream ConvNet, to compute correlations between lips and speech. It will extract features from the original video to generate a comprehensive feature map containing the speaker's head position and the original frame. And then, the features will be fed into a Mask-RCNN neural network to detect gaze following targets. This project contributed the first audio-video dataset to the field of gaze following and has since pioneered the exploration of multimodal fusion in the field.
