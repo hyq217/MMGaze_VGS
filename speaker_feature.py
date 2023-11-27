@@ -1,9 +1,13 @@
 # Function: Combine speaker features to raw frame
 import cv2
-
+import argparse
 import os
 
-
+parser = argparse.ArgumentParser()
+parser.add_argument('--raw_path', type=str, help='raw mp4 file frames', default='./output/image_frame/012/')
+parser.add_argument('--speaker_path', type=str, help='speaker face boxes', default='./data/output/speaker_detect/face_maps/012/')
+parser.add_argument('--output_path', type=str, help='gaze prediected by maskrcnn,modify format', default='./output/fusion_speaker/012/')
+args = parser.parse_args()
 # Get full name list concluding path of the images
 def get_all_file(dir_name, file_extension):
     """
@@ -22,13 +26,14 @@ def get_all_file(dir_name, file_extension):
 def com_speaker_feature(speaker_frame, no_speaker_frame, raw_frame, file_name,output_path):
     # This is to combine speakers，head position together with raw file
     frame = cv2.imread(raw_frame)
-    print('==========no_speaker_frame type', no_speaker_frame)
+    # print('==========no_speaker_frame', no_speaker_frame)
 
     no_speak_h = cv2.imread(no_speaker_frame[0])
     speak_h = cv2.imread(speaker_frame[0])
     masked_frame = cv2.addWeighted(no_speak_h, 0.5, speak_h, 1, 0)
     com_frame = cv2.addWeighted(masked_frame, 0.7, frame, 1, 0)
-
+    # Create the directory and its subdirectories (does nothing if the directory exists)
+    os.makedirs(output_path +'/com_speaker_feature/', exist_ok=True)
     # filename format = videoNum_frameNum
     cv2.imwrite(output_path +'/com_speaker_feature/'+ file_name , com_frame)
 
@@ -41,15 +46,16 @@ def com_head_feature(speaker_frame, no_speaker_frame, raw_frame, file_name, outp
     speak_h = cv2.imread(speaker_frame[0])
     masked_frame = cv2.addWeighted(no_speak_h, 1, speak_h, 1, 0)
     com_frame = cv2.addWeighted(masked_frame, 0.5, frame, 1, 0)
-
+    # Create the directory and its subdirectories (does nothing if the directory exists)
+    os.makedirs(output_path +'/com_head_feature/', exist_ok=True)
     # filename format = videoNum_frameNum
     cv2.imwrite(output_path +'/com_head_feature/'+ file_name, com_frame)
 
 
 if __name__ == '__main__':
-    raw_path = './coco/'
-    speaker_path = './speaker_detection/data/face_maps/'
-    output_path = './output/'
+    raw_path = args.raw_path
+    speaker_path = args.speaker_path
+    output_path = args.output_path
     raw_fullname, raw_filename = get_all_file(raw_path, 'jpg')
     speaker_fullname, speaker_filename = get_all_file(speaker_path, 'png')
 

@@ -5,27 +5,76 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
-import warnings
-import operator
+# import warnings
+# import operator
 import joblib
 import os
-import re
-import argparse
+# import re
+# import argparse
+import ast
+import matplotlib.patches as patches
+from functools import partial
+from PIL import Image
 
-model_mlp1 = joblib.load("/content/drive/MyDrive/summer_project/MLP_HEAD_GAZE_PAIR/model_mlp.m")
-f = open('/content/drive/MyDrive/summer_project/VGS/VGS_Dataset/x101_1x_test.txt','rb+')
-f_lines = f.read()
 
+##################################################################################
+# Gaze Detection
+##################################################################################
+#  gaze_k_predict
+def calculate_gaze_k(head_point,model_mlp):
+    gaze_k_predict = model_mlp.predict([head_point])[0]
+    return gaze_k_predict
 
+# find nearest gaze_point by gaze_k_predict
+def calculate_closest_gaze(gaze_point, gaze_k_predict, head_point):
+    print(gaze_point)
+    print(gaze_k_predict)
+    print(head_point)
+    print('===========')
+    closest_gaze = None
+    min_deviation = float('inf')
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--GT_label_all_videoFormat', type=str, help='head information for each frame', default='/content/drive/MyDrive/summer_project/VGS/VGS_Dataset/VideoGazeSpeech/GT_VideoFormat/GT_label_all_videoFormat.txt')
-parser.add_argument('--mlp_checkpoint', type=str, help='mlp_checkpoint', default='/content/drive/MyDrive/summer_project/MLP_HEAD_GAZE_PAIR/model_mlp.m')
-parser.add_argument('--gaze_maskrcnn', type=str, help='gaze prediected by maskrcnn', default='/content/drive/MyDrive/summer_project/VGS/VGS_Dataset/x101_1x_test.txt')
-parser.add_argument('--gaze_maskrcnn_mod', type=str, help='gaze prediected by maskrcnn,modify format', default='./output3/')
+    # for gaze, gaze_k_predict, head_point in zip(gaze_points, gaze_k_predicts, head_points):
+    try: 
+        k_maskrcnn = (gaze_point[1] - head_point[1]) / (gaze_point[0] - head_point[0])
+        deviation = abs(k_maskrcnn - gaze_k_predict)
 
-args = parser.parse_args()
+        if deviation < min_deviation:
+            min_deviation = deviation
+            closest_gaze = gaze_point
+    except ZeroDivisionError:
+        pass
 
+    return closest_gaze
+
+# pick nearest line of gaze_k_predict
+def filter_closest_gaze(group):
+    closest_gaze_idx = (group['gaze_k_predict'] - group['gaze_k_predict'].values[0]).abs().idxmin()
+    closest_gaze_row = group.loc[closest_gaze_idx]
+    return closest_gaze_row
+
+def bboxes_all(im, image_name, x_scale, y_scale, item, out_path):
+    # Create figure and axes
+    fig, ax = plt.subplots()
+    # Display the image
+    ax.imshow(im)
+    width, height = im.size
+    # Create a Rectangle patch
+    rect = patches.Rectangle((item[0], item[1]), item[2]-item[0], item[3]-item[1], linewidth=1, edgecolor='g', facecolor='none')
+    # Add the patch to the Axes
+    ax.add_patch(rect)
+    plt.plot(x_scale, y_scale, 'ro', color='g', markersize=8)
+    plt.axis('off')
+    #draw arrow
+    norm_p = [x_scale, y_scale]
+    plt.plot((norm_p[0],(item[0]+item[2])/2), (norm_p[1],(item[1]+item[3])/2), '-', color=(0,1,0,1))
+
+    plt.savefig(out_path, bbox_inches='tight', dpi=fig.dpi, pad_inches=0.0)
+    plt.clf()
+    plt.cla()
+    plt.close()
+    # plt.imshow()
+    return
 # Get full name list concluding path of the images
 def get_all_file(dir_name, file_extension):
     """
@@ -40,15 +89,6 @@ def get_all_file(dir_name, file_extension):
                 filename_list.append(filename)
     return fullname_list, filename_list
 
-
-f_lines1 = f_lines.decode('ISO-8859-1')  # encoding may vary!
-f_lines2 = re.split(r",|\\n", f_lines1) 
-frame_list = [[]]
-
-i=0
-a = {'image_name':'gaze_box'}
-gaze_boxes = 0
-frame_name = ''
 def move_dupli(mm):
   ls=[0]
   ls[0]=mm[0]
@@ -57,117 +97,93 @@ def move_dupli(mm):
           ls.append(mm[i])
   return (''.join(ls))
 
-for item in f_lines2:
-  # if i<5:
-    # print('-----')
-    # print(item)
-    i+=1
-    
-    item1 = re.split(r"]]|\n", item) 
-    j=0
-    gaze_box1 = [[]]
-    for item in item1:      
-      # print('***********')
-      if item.__contains__("jpg"):
-        frame_name = item
-        # print('frame_name:',frame_name)
-        frame_list.append(frame_name)
 
-      elif item is not None:
-        
-        gaze_boxes = item
-        # print('gaze_boxes:',gaze_boxes)
-        j+=1
-        gaze_box1.append(gaze_boxes)
-
-      with open(args.gaze_maskrcnn_mod+frame_name[:-4]+".csv","w") as f:
-        mm = move_dupli(','.join(str(gaze_box1).split()).replace("'","").replace("'","").split("[],,")[1][:-3]+']')
-        f.write(str(mm))
-
-# get head position
-
-gt =pd.read_table(args.GT_label_all_videoFormat, sep=',',header=None)     
-
-gt['image_name'] = gt[0]
-gt['head_position_x'] = ((gt[1]+gt[3])/2).astype(int)
-gt['head_position_y'] = ((gt[2]+gt[4])/2).astype(int)
-gt['gaze_x'] = gt[5]
-gt['gaze_y'] = gt[6]
-
-gt['k'] = (gt['gaze_y']-gt['head_position_y'])/(gt['gaze_x']-gt['head_position_x'])
-# gt.fillna(0,inplace=True)
-gt.fillna(0, inplace=True)
-gt['k'][np.isinf(gt['k'])] = 0
+# Define a function to parse the bounding box string into a list of integers
+def parse_bbox(bbox_str):
+    bbox_list = ast.literal_eval(bbox_str)
+    return [int((bbox_list[0] + bbox_list[2]) / 2), int((bbox_list[1] + bbox_list[3]) / 2)]
 
 
-# get best gaze point from mask_rcnn prediction
-import numpy as np
-df = pd.DataFrame(columns=['video_name', 'head_num', 'frame_seq','frame_name', 'head_position','gaze_point'])
-model_mlp1 = joblib.load(args.mlp_checkpoint)
+def mlp_best_gaze(imgPath,df_result,video_name,head_bbox_file, mlp_checkpoint,imagepath,savepath,config_file,checkpoint_file,all_points_output_file,best_gaze_output_file,out_path_cat):
 
-fullname_list, filename_list = get_all_file(args.gaze_maskrcnn_mod, 'csv')
-i=0
+  model_mlp = joblib.load(mlp_checkpoint)
 
-gaze_tmp = [[]]
-# for each frame (with multiple gaze_boxes predicted by maskrcnn)
-for frame_gaze_path,frame_name in zip (fullname_list, filename_list):
-  # if i<2:
-    # convert format to boxes
-    video_name = frame_name[:3] + '.mp4'
-    head_num = frame_name[3:4]
-    frame_seq = frame_name[4:-4]
-    f_gaze = open(frame_gaze_path,'rb+')
-    f_gaze_lines = f_gaze.read()
-    f_gaze_lines = str(f_gaze_lines).split('],[')
-    gaze_num = len(f_gaze_lines)
+  arr = np.load(head_bbox_file,allow_pickle=True).item()
 
-    frame_name_1 = (frame_name[:-4]+'.jpg')
-    # print(frame_name_1)
+  df = pd.DataFrame(arr)
 
-    dev = 0.0
+  df['frame_num'] = range(len(df))
+  df['frame_num'] = df['frame_num'].apply(str).apply(lambda x:str(x).zfill(3))
+  df=pd.melt(df,id_vars='frame_num',var_name='head_num',value_name='head_bbox')
+  df['head_num'] = df['head_num'].apply(pd.to_numeric)
+  df['head_num'] = df['head_num'].map(lambda x: x+1).apply(str)
+  df['video_id'] = video_name
 
-    # get related head point
-    try:
-      head_position_x = gt.loc[gt[0] == frame_name[:-4]+'.jpg','head_position_x'].iloc[0]
-      head_position_y = gt.loc[gt[0] == frame_name[:-4]+'.jpg','head_position_x'].iloc[0]
-      head = [[head_position_x,head_position_y]]
-    #   model_mlp1 = joblib.load("/content/drive/MyDrive/summer_project/MLP_HEAD_GAZE_PAIR/model_mlp.m")
-      gaze_k_predict = model_mlp1.predict(head)[0]
-      head_box = [gt.loc[gt[0] == frame_name[:-4]+'.jpg',1].iloc[0],gt.loc[gt[0] == frame_name[:-4]+'.jpg',2].iloc[0],gt.loc[gt[0] == frame_name[:-4]+'.jpg',3].iloc[0],gt.loc[gt[0] == frame_name[:-4]+'.jpg',4].iloc[0]]
-      
-      j = 1
-      # for each gaze_box predicted by maskrcnn
-      for item in f_gaze_lines:
-        item = item.replace('[','').replace(',]','').replace("b",'').replace("'",'').split(',')[:-1]
-        item = [ float(x) for x in item ]
-        # get gaze point
-        gaze_x = ((item[0]+item[2])/2)
-        gaze_y = ((item[1]+item[3])/2)
-        gaze = [[gaze_x,gaze_y]]
-        # calculate k
-        k_maskrcnn = (gaze_y - head_position_y)/(gaze_x - head_position_x)
+  df['frame_name'] = df['video_id'].str.cat(df['head_num'])
+  df['frame_name'] = df['frame_name'].str.cat(df['frame_num'])
+  df["frame_name"] =df["frame_name"]+'.jpg'
+
+  df_head_bbox = df[['frame_name','head_bbox']]
+
+  merged_df = pd.merge(df_result, df_head_bbox, on='frame_name', how='inner')
+
+  gaze_maskrcnn= all_points_output_file
+  gaze_maskrcnn_mod='./data/output/'+video_name+ '/'
+
+  if not os.path.exists(gaze_maskrcnn_mod):
+      os.makedirs(gaze_maskrcnn_mod)
 
 
+  merged_df['head_num'] = merged_df['frame_name'].str[3:4]
+  merged_df['frame_seq'] = merged_df['frame_name'].str[4:-4]
+  merged_df['head_point'] = merged_df['head_bbox'].apply(lambda bbox: [int((bbox[0] + bbox[2]) / 2), int((bbox[1] + bbox[3]) / 2)])
+  merged_df['gaze_point'] = merged_df['gaze_bbox'].apply(parse_bbox)
 
-        if j == 1 :
-          dev = abs(k_maskrcnn-gaze_k_predict)
-          gaze_tmp = gaze
-        elif j> 1:
-          if dev > abs(k_maskrcnn-gaze_k_predict):
-            dev = abs(k_maskrcnn-gaze_k_predict)
-            gaze_tmp = gaze
-          else:
-            continue
-
-          
-        j+=1
-      df = df.append({'video_name': video_name, 'head_num': head_num, 'frame_seq':frame_seq,'frame_name':frame_name_1, 'head_position':head_box, 'gaze_point':gaze_tmp}, ignore_index=True)
-      i+=1
-    except Exception:
-        continue
+  # calculate_gaze_k_with_model = partial(calculate_gaze_k, model=model_mlp)
+  calculate_gaze_k_with_model = lambda x: calculate_gaze_k(x, model_mlp)
 
 
-df.sort_values(by=['frame_name'], ascending=True, inplace=True)
-df1 = df.drop(columns=['Unnamed: 0'])
+  merged_df['gaze_k_predict'] = merged_df['head_point'].apply(calculate_gaze_k_with_model)
+  # closest_gaze to 'gaze_best'
+  merged_df['gaze_best'] = merged_df.apply(lambda row: calculate_closest_gaze(row['gaze_point'], row['gaze_k_predict'],row['head_point']), axis=1)
+  filtered_df = pd.DataFrame(columns=merged_df.columns)
 
-df1.to_csv('KETI_Sequence.csv')
+  grouped = merged_df.groupby('frame_name')
+
+  # calculate nearest points on each group, output filtered_df
+  for name, group in grouped:
+      closest_gaze_row = filter_closest_gaze(group)
+      filtered_df = pd.concat([filtered_df, closest_gaze_row.to_frame().T])
+
+  #final gaze prediction
+  filtered_df = filtered_df.reset_index(drop=True)
+  filtered_df.to_csv(best_gaze_output_file, index=False)
+
+  # draw gaze target in frame
+  fullname_list, filename_list = get_all_file(imgPath, 'jpg')
+  for frame_path,frame_name in zip(fullname_list, filename_list):
+      frame_raw = Image.open(frame_path)
+      frame_raw = frame_raw.convert('RGB')
+      out_path = out_path_cat+ frame_name
+      width, height = frame_raw.size
+      print('Generate frame with prediction',out_path)
+
+      # get gaze point
+      try:
+          gaze_best_point = filtered_df.loc[filtered_df['frame_name'].str.contains(frame_name[:-4])]['gaze_best'].tolist()[0]
+          x_scale = gaze_best_point[0]
+          y_scale = gaze_best_point[1]
+
+          #get head_bbox
+          head_box = filtered_df.loc[filtered_df['frame_name'].str.contains(frame_name[:-4])]['head_bbox'].tolist()
+          head_xmin = int((head_box[0][0]))
+          head_ymin = int((head_box[0][1]))
+          head_xmax = int((head_box[0][2]))
+          head_ymax = int((head_box[0][3]))
+          head_bbox = [head_xmin,head_ymin,head_xmax,head_ymax]
+      except :
+          print('-------')
+          continue
+
+      bboxes_all(frame_raw, frame_name, x_scale, y_scale, head_bbox, out_path)
+
