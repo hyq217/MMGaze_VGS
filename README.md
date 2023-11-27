@@ -14,11 +14,7 @@ Gaze following estimates gaze targets of in-scene person by understanding human 
 ```
 -KETI_VGS
     --configs
-        ---Mask_RCNN
-            ----requirement.txt
-            ----environment.yaml
-        ---Speaker_detector
-            ----requirement.txt
+        ----requirement.txt
 
  --data:
     Note: This folder you can find:
