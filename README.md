@@ -120,16 +120,12 @@ Python  ./tools/train.py yuqi_x101_32x4d_fpn_1x_HS/mask_rcnn_x101_32x4d_fpn_1x_c
 #mask_rcnn_x101_32x4d_fpn_1x_coco.py privides parameters to tuning the newwork, you can do some customized changes on it.
 
 
-### Step4: Go to folder './utils/Mask_RCNN/'. Detect gaze points from Mask_RCNN
+### Step4: Detect gaze points from Mask_RCNN
 ```
-python ./tools/test_yuqi.py
-```
-
-### Step5: Go to home folder. Use MLP [checkpoint]() to detect best gaze point.
+    python MMGaze_demo.py --videoPath './data/Raw_videos/011.mp4'  --head_num 2
 
 ```
-python MLP_Best_Gaze.py
-```
+
 
 In this step you will generate the final csv file [here](https://drive.google.com/file/d/1JBDwW9fbwGz-gl2hzAI9voNz3PR9Rf0T/view?usp=sharing).
 
